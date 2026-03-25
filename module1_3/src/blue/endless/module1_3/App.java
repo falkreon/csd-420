@@ -1,3 +1,20 @@
+/**
+ * CSD420: Advanced Java
+ * Module 1: JavaFX Controls and Event-Driven Programming Item Options
+ *   Assignment 3: Programming Assignment
+ * Isaac Ellingson
+ * 3/25/2026
+ * 
+ * GUI program that deals 4 random cards from a standard 52-card deck on demand.
+ * 
+ * NOTE: This program is modular, since javaFX is modular, so you may run into additional hurdles running this code that
+ * you did not run into last time.
+ * Your PATH-based modulepath additions should resolve the declared module dependencies and everything SHOULD work, but
+ * I can't make guarantees. If anything breaks, I can guarantee this runs in JDK 21 set to "Java 10 compliance mode",
+ * and OpenJFX 17, as that's my testing environment. I can also ship a double-clickable jar, or configure a shadow jar
+ * if needed.
+ */
+
 package blue.endless.module1_3;
 
 import java.net.MalformedURLException;
@@ -29,10 +46,20 @@ public class App extends Application {
 	private List<Image> cardImages = new ArrayList<>();
 	private Button dealButton = new Button("Deal");
 	
+	/** Starts the application for non-javafx-aware systems */
 	public static void main(String... args) {
 		Application.launch(App.class, args);
 	}
 
+	/**
+	 * With only 52 resources, it's virtually instant to preload the cards, which may be frequently reused during the
+	 * program execution. Therefore, this method MUST be called before card images are used, and will populate the list
+	 * of images ahead of time.
+	 * 
+	 * <p>This method also does an initial check to ensure the "cards" folder is available at runtime, and will display
+	 * helpful information to the user if the check fails. It will fail gracefully with error messages if some cards are
+	 * malformed, but at least one card is required to load successfully, otherwise this method will halt operation.
+	 */
 	public void preloadCards() {
 		Path cardsFolder = Path.of("cards");
 		if (!Files.exists(cardsFolder)) {
@@ -56,6 +83,9 @@ public class App extends Application {
 		}
 	}
 	
+	/**
+	 * Deals a new set of random cards.
+	 */
 	public void reroll() {
 		for(ImageView card : cards) {
 			int cardNum = random.nextInt(cardImages.size());
@@ -63,15 +93,18 @@ public class App extends Application {
 		}
 	}
 	
+	
 	@SuppressWarnings("exports")
 	@Override
 	public void start(Stage stage) {
-		// Preload the card images
 		preloadCards();
 		
 		reroll();
 		
-		root.setStyle("-fx-spacing: 6px;");
+		
+		// From here on: Stitch UI together with styles, hierarchy, and events
+		
+		root.setStyle("-fx-spacing: 8px;");
 		
 		root.getChildren().add(cardsBox);
 		cardsBox.setStyle("-fx-min-width: 100%; -fx-spacing: 6px; -fx-padding: 3px; -fx-background-color: #777;");
@@ -87,8 +120,10 @@ public class App extends Application {
 		// Otherwise, this could be a method reference instead.
 		dealButton.setOnAction((it) -> reroll());
 		dealButton.setMaxWidth(423);
+		// The button's ignoring height hints. Rude!
 		dealButton.setMaxHeight(32);
 		dealButton.setPrefHeight(24);
+		dealButton.setMinHeight(24);
 		
 		Scene scene = new Scene(root, 423, 200);
 		

@@ -19,6 +19,11 @@ dependencies {
 	implementation 'org.openjfx:javafx-fxml:17.0.18:linux';
 }
 
+java {
+    sourceCompatibility = "1.10";
+    targetCompatibility = "1.10";
+}
+
 sourceSets {
 	main {
 		java {
