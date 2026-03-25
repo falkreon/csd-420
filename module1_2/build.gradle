@@ -1,0 +1,28 @@
+plugins {
+	id 'application';
+}
+
+application {
+	mainModule = "blue.endless.module1_2_app";
+	mainClass = "blue.endless.module1_2.App";
+	executableDir = ".";
+}
+
+repositories {
+	mavenCentral();
+}
+
+dependencies {
+	implementation 'org.openjfx:javafx-base:17.0.18:linux';
+	implementation 'org.openjfx:javafx-controls:17.0.18:linux';
+	implementation 'org.openjfx:javafx-graphics:17.0.18:linux';
+	implementation 'org.openjfx:javafx-fxml:17.0.18:linux';
+}
+
+sourceSets {
+	main {
+		java {
+			srcDirs = ['src'];
+		}
+	}
+}
