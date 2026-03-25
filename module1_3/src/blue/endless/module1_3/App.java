@@ -1,4 +1,4 @@
-/**
+/*
  * CSD420: Advanced Java
  * Module 1: JavaFX Controls and Event-Driven Programming Item Options
  *   Assignment 3: Programming Assignment
@@ -9,10 +9,12 @@
  * 
  * NOTE: This program is modular, since javaFX is modular, so you may run into additional hurdles running this code that
  * you did not run into last time.
- * Your PATH-based modulepath additions should resolve the declared module dependencies and everything SHOULD work, but
- * I can't make guarantees. If anything breaks, I can guarantee this runs in JDK 21 set to "Java 10 compliance mode",
- * and OpenJFX 17, as that's my testing environment. I can also ship a double-clickable jar, or configure a shadow jar
- * if needed.
+ * Your environment variables, especially the modulepath additions, should resolve the declared module dependencies and
+ * everything SHOULD work on your setup, but I can't make guarantees on systems I can't test with.
+ * 
+ * 
+ * If anything breaks, I know it's distasteful to you, but `./gradlew clean build run` in the csd-420 repository version
+ * will also just get everything you need, build it, and run it for you.
  */
 
 package blue.endless.module1_3;
