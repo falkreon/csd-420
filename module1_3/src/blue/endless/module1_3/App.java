@@ -1,6 +1,7 @@
-package blue.endless.module1_2;
+package blue.endless.module1_3;
 
 import java.net.MalformedURLException;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
@@ -32,6 +33,29 @@ public class App extends Application {
 		Application.launch(App.class, args);
 	}
 
+	public void preloadCards() {
+		Path cardsFolder = Path.of("cards");
+		if (!Files.exists(cardsFolder)) {
+			System.out.println("Could not find the cards folder. Please make sure that the cards folder is sitting in the same working directory you run java from.");
+			System.out.println("Location checked: "+cardsFolder.toAbsolutePath().toString());
+			System.exit(-1);
+		}
+		
+		for(int i=1; i<=52; i++) {
+			Path p = cardsFolder.resolve("" + i + ".png");
+			try {
+				Image im = new Image(p.toUri().toURL().toString());
+				cardImages.add(im);
+			} catch (MalformedURLException e) {
+				e.printStackTrace();
+			}
+		}
+		
+		if (cardImages.isEmpty()) {
+			throw new IllegalStateException("Did not successfully load ANY cards. The program cannot proceed.");
+		}
+	}
+	
 	public void reroll() {
 		for(ImageView card : cards) {
 			int cardNum = random.nextInt(cardImages.size());
@@ -39,43 +63,23 @@ public class App extends Application {
 		}
 	}
 	
+	@SuppressWarnings("exports")
 	@Override
 	public void start(Stage stage) {
 		// Preload the card images
-		Path cardsFolder = Path.of("cards");
-		for(int i=1; i<=52; i++) {
-			Path p = cardsFolder.resolve("" + i + ".png");
-			try {
-				Image im = new Image(p.toUri().toURL().toString());
-				cardImages.add(im);
-			} catch (MalformedURLException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-		}
-		
-		
-		
-		card1.getStyleClass().add("card");
-		card2.getStyleClass().add("card");
-		card3.getStyleClass().add("card");
-		card4.getStyleClass().add("card");
+		preloadCards();
 		
 		reroll();
-		
-		for(ImageView card : cards) {
-			card.setFitWidth(100);
-			card.setPreserveRatio(true);
-		}
 		
 		root.setStyle("-fx-spacing: 6px;");
 		
 		root.getChildren().add(cardsBox);
 		cardsBox.setStyle("-fx-min-width: 100%; -fx-spacing: 6px; -fx-padding: 3px; -fx-background-color: #777;");
-		cardsBox.getChildren().add(card1);
-		cardsBox.getChildren().add(card2);
-		cardsBox.getChildren().add(card3);
-		cardsBox.getChildren().add(card4);
+		for(ImageView card : cards) {
+			cardsBox.getChildren().add(card);
+			card.setFitWidth(100);
+			card.setPreserveRatio(true);
+		}
 		
 		root.getChildren().add(dealButton);
 		
@@ -88,7 +92,7 @@ public class App extends Application {
 		
 		Scene scene = new Scene(root, 423, 200);
 		
-		stage.setTitle("CSD420: Module 1.2");
+		stage.setTitle("CSD420: Module 1.3");
 		stage.setScene(scene);
 		stage.show();
 	}

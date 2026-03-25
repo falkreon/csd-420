@@ -3,8 +3,8 @@ plugins {
 }
 
 application {
-	mainModule = "blue.endless.module1_2_app";
-	mainClass = "blue.endless.module1_2.App";
+	mainModule = "blue.endless.module1_3_app";
+	mainClass = "blue.endless.module1_3.App";
 	executableDir = ".";
 }
 
