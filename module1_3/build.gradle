@@ -24,6 +24,8 @@ java {
     targetCompatibility = "1.10";
 }
 
+compileJava.options.encoding='UTF-8'
+
 sourceSets {
 	main {
 		java {

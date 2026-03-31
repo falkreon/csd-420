@@ -58,3 +58,4 @@ replay_pid*
 
 #program output
 data.file
+*.dat
