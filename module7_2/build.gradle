@@ -1,0 +1,51 @@
+plugins {
+	id 'application';
+}
+
+application {
+	mainModule = "blue.endless.module7_2_app";
+	mainClass = "blue.endless.module7_2.App";
+	executableDir = ".";
+}
+
+repositories {
+	mavenCentral();
+}
+
+dependencies {
+	implementation 'org.openjfx:javafx-base:17.0.18:linux';
+	implementation 'org.openjfx:javafx-controls:17.0.18:linux';
+	implementation 'org.openjfx:javafx-graphics:17.0.18:linux';
+	implementation 'org.openjfx:javafx-fxml:17.0.18:linux';
+
+	runtimeOnly 'org.openjfx:javafx-base:17.0.18:linux';
+	runtimeOnly 'org.openjfx:javafx-controls:17.0.18:linux';
+	runtimeOnly 'org.openjfx:javafx-graphics:17.0.18:linux';
+	runtimeOnly 'org.openjfx:javafx-fxml:17.0.18:linux';
+}
+
+java {
+	sourceCompatibility = "1.10";
+	targetCompatibility = "1.10";
+}
+
+run {
+    doFirst {
+        jvmArgs = [
+                '--module-path', classpath.asPath,
+                '--add-modules', 'javafx.base',
+                '--add-modules', 'javafx.controls',
+                '--add-modules', 'javafx.graphics'
+        ]
+    }
+}
+
+compileJava.options.encoding='UTF-8'
+
+sourceSets {
+	main {
+		java {
+			srcDirs = ['src'];
+		}
+	}
+}
