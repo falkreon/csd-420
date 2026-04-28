@@ -1,0 +1,31 @@
+plugins {
+	id 'application';
+}
+
+application {
+	mainModule = "blue.endless.module8_2_app";
+	mainClass = "blue.endless.module8_2.App";
+	executableDir = ".";
+}
+
+repositories {
+	mavenCentral();
+}
+
+dependencies {
+}
+
+java {
+	sourceCompatibility = "1.10";
+	targetCompatibility = "1.10";
+}
+
+compileJava.options.encoding='UTF-8'
+
+sourceSets {
+	main {
+		java {
+			srcDirs = ['src'];
+		}
+	}
+}
