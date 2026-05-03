@@ -4,7 +4,7 @@ plugins {
 
 application {
 	mainModule = "blue.endless.module8_2_app";
-	mainClass = "blue.endless.module8_2.App";
+	mainClass = "blue.endless.module8_2.IsaacThreeThreads";
 	executableDir = ".";
 }
 
