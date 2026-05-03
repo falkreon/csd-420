@@ -1,3 +1,17 @@
+/*
+ * CSD420: Advanced Java Programming
+ * Module 7: More JavaFX
+ *   Assignment 2: Programming Assignment
+ * 
+ * Isaac Ellingson
+ * 5/3/2026
+ * 
+ * Replicates the provided image, while demonstrating the use of classes and IDs with external CSS to style elements.
+ * Listings 31.1, 31.2, and Figure 31.1 were referenced. I rearranged the code to a more readable form using anonymous
+ * blocks to express hierarchy. We could have done FXML again, and I *like* FXML, but I know that's not always going to
+ * be the right tool for the job, so I want to keep finding more clean and clear ways to do this.
+ */
+
 package blue.endless.module7_2;
 
 import java.io.File;
@@ -20,44 +34,44 @@ public class App extends Application {
 		primaryStage.setTitle("Ellingson - Module 7.2 - CSD420");
 		
 		// Just enough flex to show that Circle positioning is not reactive within its container.
+		primaryStage.setMinHeight(320);
+		primaryStage.setMinWidth(320);
 		primaryStage.setMaxHeight(600);
-		primaryStage.setMinHeight(400);
-		primaryStage.setMinWidth(400);
 		primaryStage.setMaxWidth(800);
 		
-		// Since we didn't get an image, this code borrows generously from the example in Listing 31.2 of the text
-		// provided, so that the visuals match up with Figure 31.1
-		// Elements have been rearranged to the order I prefer to create, configure, and stitch components.
 		
 		HBox root = new HBox();
-		
-		Pane leftArea = new Pane();
-		leftArea.getStyleClass().add("border");
-		
-		Circle leftCircle = new Circle(50, 50, 30);
-		leftCircle.getStyleClass().add("plaincircle");
-		leftArea.getChildren().add(leftCircle);
-		
-		Circle rightCircle = new Circle(150, 50, 30);
-		rightCircle.getStyleClass().add("plaincircle");
-		leftArea.getChildren().add(rightCircle);
-		
-		Circle bottomCircle = new Circle(100, 100, 30);
-		bottomCircle.setId("redcircle");
-		leftArea.getChildren().add(bottomCircle);
-		
-		root.getChildren().add(leftArea);
-		
-		
-		Pane rightArea = new Pane();
-		Circle circle4 = new Circle(100, 100, 30);
-		circle4.getStyleClass().addAll("circleborder", "plaincircle"); // Not sure why we do this when id has higher specificity
-		// unless it's just to demonstrate css specificity
-		circle4.setId("greencircle");
-		rightArea.getChildren().add(circle4);
-		
-		root.getChildren().add(rightArea);
-		
+		{
+			Pane leftArea = new Pane();
+			root.getChildren().add(leftArea);
+			{
+				leftArea.getStyleClass().add("border");
+				
+				Circle leftAreaCircle = new Circle(35, 150, 30);
+				leftAreaCircle.getStyleClass().add("plaincircle");
+				leftArea.getChildren().add(leftAreaCircle);
+				
+			}
+			
+			Pane rightArea = new Pane();
+			root.getChildren().add(rightArea);
+			{
+				Circle leftCircle = new Circle(35, 150, 30);
+				leftCircle.getStyleClass().add("plaincircle");
+				rightArea.getChildren().add(leftCircle);
+				
+				Circle middleCircle = new Circle(100, 150, 30);
+				middleCircle.setId("redcircle");
+				rightArea.getChildren().add(middleCircle);
+				
+				Circle rightCircle = new Circle(165, 150, 30);
+				// ID has higher precedence than class, so this will be green instead of plain or with a dashed outline.
+				rightCircle.getStyleClass().addAll("circleborder", "plaincircle");
+				rightCircle.setId("greencircle");
+				rightArea.getChildren().add(rightCircle);
+			}
+			
+		}
 		
 		
 		// Typically I'd use tooling to include the css inside the jar. But we can't do that here.
@@ -68,7 +82,7 @@ public class App extends Application {
 		root.getStylesheets().add(stylesheetString);
 		
 		// Create the scene and show it on the stage
-		Scene scene = new Scene(root, 500, 400);
+		Scene scene = new Scene(root, 320, 320);
 		primaryStage.setScene(scene);
 		primaryStage.show();
 	}

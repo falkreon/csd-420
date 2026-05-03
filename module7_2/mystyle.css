@@ -1,3 +1,10 @@
+/* This mystyle.css file is from Listing 31.1 in Chapter 31 of the provided book excerpts.
+ *
+ * There was conflicting instruction, "Create an external CSS" vs "Use the mystyle.css found early in Chapter 31".
+ * Since mystyle.css seemed to fit the other assignment requirements, no changes were effected except for this
+ * attribution comment.
+ */
+
 .plaincircle {
 	-fx-fill: white;
 	-fx-stroke: black;
