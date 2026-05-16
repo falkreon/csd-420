@@ -1,0 +1,32 @@
+plugins {
+	id 'application';
+}
+
+application {
+	mainModule = "blue.endless.module10_2_app";
+	mainClass = "blue.endless.module10_2.App";
+	executableDir = ".";
+}
+
+repositories {
+	mavenCentral();
+}
+
+dependencies {
+	implementation "com.mysql:mysql-connector-j:9.7.0";
+}
+
+java {
+	sourceCompatibility = "1.10";
+	targetCompatibility = "1.10";
+}
+
+compileJava.options.encoding='UTF-8'
+
+sourceSets {
+	main {
+		java {
+			srcDirs = ['src'];
+		}
+	}
+}
