@@ -1,0 +1,6012 @@
+{
+	"architecture": [
+		{
+			"first_name": "Yettie",
+			"last_name": "Weddup",
+			"student_id": 1,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Isabel",
+			"last_name": "Peasegood",
+			"student_id": 10,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Katleen",
+			"last_name": "Cheng",
+			"student_id": 11,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Cyril",
+			"last_name": "Curdell",
+			"student_id": 25,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Alena",
+			"last_name": "Pooley",
+			"student_id": 32,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Deck",
+			"last_name": "Topping",
+			"student_id": 36,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Orbadiah",
+			"last_name": "Meiklem",
+			"student_id": 40,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Loleta",
+			"last_name": "Bax",
+			"student_id": 46,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Analiese",
+			"last_name": "Hartles",
+			"student_id": 47,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Harman",
+			"last_name": "Spittall",
+			"student_id": 49,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Roley",
+			"last_name": "Salt",
+			"student_id": 62,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Rosella",
+			"last_name": "Collecott",
+			"student_id": 63,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Eilis",
+			"last_name": "Chetwynd",
+			"student_id": 67,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Amory",
+			"last_name": "Scimonelli",
+			"student_id": 68,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Niki",
+			"last_name": "Kilbourne",
+			"student_id": 75,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Rutter",
+			"last_name": "Witherbed",
+			"student_id": 76,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Idette",
+			"last_name": "Alenshev",
+			"student_id": 79,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Yanaton",
+			"last_name": "Piotr",
+			"student_id": 89,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Ephraim",
+			"last_name": "Lerway",
+			"student_id": 93,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Martelle",
+			"last_name": "Yarnley",
+			"student_id": 97,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Marten",
+			"last_name": "Haugg",
+			"student_id": 107,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Betta",
+			"last_name": "Ewens",
+			"student_id": 122,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Joellyn",
+			"last_name": "Craddy",
+			"student_id": 126,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Helenka",
+			"last_name": "Jedrychowski",
+			"student_id": 131,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Nicki",
+			"last_name": "Masurel",
+			"student_id": 142,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Torry",
+			"last_name": "Mattiazzi",
+			"student_id": 143,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Aeriell",
+			"last_name": "Galbraeth",
+			"student_id": 150,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Beret",
+			"last_name": "Saunt",
+			"student_id": 151,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Chane",
+			"last_name": "Lyon",
+			"student_id": 166,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Gerry",
+			"last_name": "Deroche",
+			"student_id": 168,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Anstice",
+			"last_name": "Athow",
+			"student_id": 176,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Maura",
+			"last_name": "Huller",
+			"student_id": 177,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Demetre",
+			"last_name": "Riply",
+			"student_id": 179,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Norma",
+			"last_name": "Heinish",
+			"student_id": 184,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Patricio",
+			"last_name": "Croysdale",
+			"student_id": 188,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Gav",
+			"last_name": "Capp",
+			"student_id": 205,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Loren",
+			"last_name": "Heilds",
+			"student_id": 208,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Helen-elizabeth",
+			"last_name": "Collidge",
+			"student_id": 211,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Quintana",
+			"last_name": "Dominka",
+			"student_id": 217,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Tova",
+			"last_name": "Jammes",
+			"student_id": 219,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Ryann",
+			"last_name": "Kittley",
+			"student_id": 234,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Joby",
+			"last_name": "Gimlet",
+			"student_id": 267,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Corliss",
+			"last_name": "Midgely",
+			"student_id": 269,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Loren",
+			"last_name": "Petley",
+			"student_id": 275,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Lara",
+			"last_name": "Greenhowe",
+			"student_id": 280,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Holly",
+			"last_name": "Shewen",
+			"student_id": 287,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Sabra",
+			"last_name": "Bugden",
+			"student_id": 289,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Nan",
+			"last_name": "Judgkins",
+			"student_id": 290,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Fonsie",
+			"last_name": "Fost",
+			"student_id": 291,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Chris",
+			"last_name": "Matskevich",
+			"student_id": 292,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Paulo",
+			"last_name": "Manston",
+			"student_id": 307,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Cynthia",
+			"last_name": "Fiddy",
+			"student_id": 310,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Edy",
+			"last_name": "Rennicks",
+			"student_id": 312,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Lefty",
+			"last_name": "Garritley",
+			"student_id": 314,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Bengt",
+			"last_name": "Parfitt",
+			"student_id": 323,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Devi",
+			"last_name": "Plumm",
+			"student_id": 327,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Karole",
+			"last_name": "Tallon",
+			"student_id": 338,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Jan",
+			"last_name": "Whall",
+			"student_id": 340,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Perice",
+			"last_name": "Hatt",
+			"student_id": 343,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Amii",
+			"last_name": "Beasleigh",
+			"student_id": 347,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Crissy",
+			"last_name": "Heatly",
+			"student_id": 349,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Conny",
+			"last_name": "Biggadyke",
+			"student_id": 352,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Andria",
+			"last_name": "Atwell",
+			"student_id": 354,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Tristan",
+			"last_name": "Crabb",
+			"student_id": 356,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Raddy",
+			"last_name": "Clarey",
+			"student_id": 361,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Inglebert",
+			"last_name": "Wintersgill",
+			"student_id": 362,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Jayme",
+			"last_name": "Pardi",
+			"student_id": 375,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Kameko",
+			"last_name": "Birden",
+			"student_id": 393,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Rey",
+			"last_name": "Kristoffersen",
+			"student_id": 395,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Harlie",
+			"last_name": "Simmig",
+			"student_id": 397,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Paule",
+			"last_name": "Fessler",
+			"student_id": 413,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Kaile",
+			"last_name": "Kershaw",
+			"student_id": 435,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Kermy",
+			"last_name": "Hritzko",
+			"student_id": 443,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Justis",
+			"last_name": "Calcraft",
+			"student_id": 452,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Saxon",
+			"last_name": "Aberdalgy",
+			"student_id": 453,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Nina",
+			"last_name": "Anneslie",
+			"student_id": 454,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Emogene",
+			"last_name": "Boichat",
+			"student_id": 455,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Keir",
+			"last_name": "Valens-Smith",
+			"student_id": 457,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Cookie",
+			"last_name": "Ravenscroftt",
+			"student_id": 458,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Emylee",
+			"last_name": "Fridlington",
+			"student_id": 465,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Colman",
+			"last_name": "Bimrose",
+			"student_id": 468,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Deena",
+			"last_name": "Collocott",
+			"student_id": 469,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Titus",
+			"last_name": "Ricardet",
+			"student_id": 470,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Cherry",
+			"last_name": "Tettersell",
+			"student_id": 477,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Quinn",
+			"last_name": "Kilduff",
+			"student_id": 478,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Tedi",
+			"last_name": "Spinley",
+			"student_id": 480,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Ashlee",
+			"last_name": "Labeuil",
+			"student_id": 484,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Toni",
+			"last_name": "Sabathe",
+			"student_id": 488,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Matthaeus",
+			"last_name": "Costerd",
+			"student_id": 489,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Nanete",
+			"last_name": "Petren",
+			"student_id": 498,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Alicia",
+			"last_name": "Frankland",
+			"student_id": 500,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Natassia",
+			"last_name": "Wallwood",
+			"student_id": 502,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Filmer",
+			"last_name": "Pancast",
+			"student_id": 507,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Dreddy",
+			"last_name": "Capes",
+			"student_id": 512,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Dun",
+			"last_name": "Sacase",
+			"student_id": 514,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Kelsey",
+			"last_name": "Iacomelli",
+			"student_id": 516,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Byrle",
+			"last_name": "Sandey",
+			"student_id": 518,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Stephani",
+			"last_name": "Stolberger",
+			"student_id": 526,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Lari",
+			"last_name": "Lutwidge",
+			"student_id": 527,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Tandi",
+			"last_name": "Brenston",
+			"student_id": 528,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Melinde",
+			"last_name": "Longmire",
+			"student_id": 530,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Adan",
+			"last_name": "Gilbertson",
+			"student_id": 536,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Luz",
+			"last_name": "Cayford",
+			"student_id": 553,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Tally",
+			"last_name": "Hudel",
+			"student_id": 558,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Ogdon",
+			"last_name": "Jaggers",
+			"student_id": 563,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Delmor",
+			"last_name": "Chatteris",
+			"student_id": 568,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Wilburt",
+			"last_name": "Staff",
+			"student_id": 570,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Linet",
+			"last_name": "Farmiloe",
+			"student_id": 571,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Roxine",
+			"last_name": "Eastlake",
+			"student_id": 578,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Jeth",
+			"last_name": "Andrivel",
+			"student_id": 580,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Cathe",
+			"last_name": "Toffler",
+			"student_id": 588,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Lari",
+			"last_name": "Gethin",
+			"student_id": 593,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Rubin",
+			"last_name": "Dymond",
+			"student_id": 603,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Bram",
+			"last_name": "Autry",
+			"student_id": 607,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Estrella",
+			"last_name": "Lethlay",
+			"student_id": 616,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Mireielle",
+			"last_name": "Lisett",
+			"student_id": 618,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Netti",
+			"last_name": "Stoner",
+			"student_id": 619,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Anne-marie",
+			"last_name": "Langmuir",
+			"student_id": 621,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Drona",
+			"last_name": "Gowling",
+			"student_id": 631,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Thibaut",
+			"last_name": "Dawtrey",
+			"student_id": 633,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Ranice",
+			"last_name": "Kliemchen",
+			"student_id": 634,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Codi",
+			"last_name": "O'Loinn",
+			"student_id": 647,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Zacharia",
+			"last_name": "Martellini",
+			"student_id": 649,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Derron",
+			"last_name": "La Padula",
+			"student_id": 651,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Harlin",
+			"last_name": "Whanstall",
+			"student_id": 655,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Izzy",
+			"last_name": "McIlvoray",
+			"student_id": 664,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Warde",
+			"last_name": "Covolini",
+			"student_id": 665,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Alvina",
+			"last_name": "Briscam",
+			"student_id": 666,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Hedda",
+			"last_name": "Johannes",
+			"student_id": 669,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Scott",
+			"last_name": "Wenn",
+			"student_id": 671,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Manfred",
+			"last_name": "Kinnear",
+			"student_id": 676,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Alanson",
+			"last_name": "Dorcey",
+			"student_id": 677,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Goldina",
+			"last_name": "Dalgarnocht",
+			"student_id": 678,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Charlene",
+			"last_name": "Saby",
+			"student_id": 679,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Sofie",
+			"last_name": "De Domenico",
+			"student_id": 683,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Ange",
+			"last_name": "Claeskens",
+			"student_id": 689,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Welch",
+			"last_name": "Duligal",
+			"student_id": 694,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Marchall",
+			"last_name": "Caslett",
+			"student_id": 695,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Natka",
+			"last_name": "Goodbody",
+			"student_id": 701,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Mignonne",
+			"last_name": "Autie",
+			"student_id": 707,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Giffie",
+			"last_name": "Silkstone",
+			"student_id": 713,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Lib",
+			"last_name": "Jenyns",
+			"student_id": 714,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Gertruda",
+			"last_name": "Bulter",
+			"student_id": 726,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Essie",
+			"last_name": "Studdert",
+			"student_id": 727,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Rodd",
+			"last_name": "Coom",
+			"student_id": 728,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Lisbeth",
+			"last_name": "Bidnall",
+			"student_id": 729,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Lita",
+			"last_name": "Cunah",
+			"student_id": 749,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Leonardo",
+			"last_name": "Skiggs",
+			"student_id": 753,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Clarine",
+			"last_name": "Balaizot",
+			"student_id": 760,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Adrianna",
+			"last_name": "Semered",
+			"student_id": 766,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Winfred",
+			"last_name": "Denisovich",
+			"student_id": 767,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Kynthia",
+			"last_name": "Antonucci",
+			"student_id": 768,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Kellyann",
+			"last_name": "Vertigan",
+			"student_id": 769,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Livy",
+			"last_name": "Baudesson",
+			"student_id": 775,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Tomasina",
+			"last_name": "Yeld",
+			"student_id": 777,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Alanah",
+			"last_name": "Huison",
+			"student_id": 785,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Deeyn",
+			"last_name": "Thurlborn",
+			"student_id": 794,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Dukey",
+			"last_name": "Scawn",
+			"student_id": 803,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Blakelee",
+			"last_name": "Corby",
+			"student_id": 807,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Carver",
+			"last_name": "Pillinger",
+			"student_id": 812,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Heriberto",
+			"last_name": "Nangle",
+			"student_id": 813,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Revkah",
+			"last_name": "Marl",
+			"student_id": 821,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Glenn",
+			"last_name": "Dackombe",
+			"student_id": 825,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Lauritz",
+			"last_name": "Daleman",
+			"student_id": 831,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Garth",
+			"last_name": "Warden",
+			"student_id": 832,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Farah",
+			"last_name": "Le Grice",
+			"student_id": 834,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Luciano",
+			"last_name": "Proughten",
+			"student_id": 842,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Aleksandr",
+			"last_name": "Climie",
+			"student_id": 843,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Kristien",
+			"last_name": "Daily",
+			"student_id": 847,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Dorena",
+			"last_name": "Van Weedenburg",
+			"student_id": 850,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Michele",
+			"last_name": "Tucsell",
+			"student_id": 859,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Rolph",
+			"last_name": "Tartt",
+			"student_id": 860,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Loren",
+			"last_name": "Klimecki",
+			"student_id": 861,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Mohandis",
+			"last_name": "Coggill",
+			"student_id": 870,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Mag",
+			"last_name": "McCullouch",
+			"student_id": 872,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Lynnett",
+			"last_name": "Meads",
+			"student_id": 876,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Izabel",
+			"last_name": "Ehlerding",
+			"student_id": 879,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Alika",
+			"last_name": "Tongs",
+			"student_id": 885,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Bernadina",
+			"last_name": "Rallin",
+			"student_id": 891,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Vinnie",
+			"last_name": "Pirdy",
+			"student_id": 895,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Ravid",
+			"last_name": "Cannings",
+			"student_id": 902,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Roslyn",
+			"last_name": "Olligan",
+			"student_id": 903,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Chryste",
+			"last_name": "Gossling",
+			"student_id": 904,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Carma",
+			"last_name": "Brugden",
+			"student_id": 915,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Welsh",
+			"last_name": "Loughman",
+			"student_id": 921,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Sven",
+			"last_name": "Vizor",
+			"student_id": 926,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Maybelle",
+			"last_name": "Befroy",
+			"student_id": 933,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Reginauld",
+			"last_name": "Haselgrove",
+			"student_id": 934,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Jan",
+			"last_name": "Salling",
+			"student_id": 936,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Smith",
+			"last_name": "Malloch",
+			"student_id": 946,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Pattie",
+			"last_name": "Brealey",
+			"student_id": 965,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Izaak",
+			"last_name": "Akehurst",
+			"student_id": 980,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Philippine",
+			"last_name": "Bindon",
+			"student_id": 986,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Colly",
+			"last_name": "Mayell",
+			"student_id": 987,
+			"major": "architecture"
+		},
+		{
+			"first_name": "Meade",
+			"last_name": "Moyne",
+			"student_id": 995,
+			"major": "architecture"
+		}
+	],
+	"art": [
+		{
+			"first_name": "Horton",
+			"last_name": "Celle",
+			"student_id": 2,
+			"major": "art"
+		},
+		{
+			"first_name": "Kare",
+			"last_name": "Liepins",
+			"student_id": 6,
+			"major": "art"
+		},
+		{
+			"first_name": "Kennedy",
+			"last_name": "Divver",
+			"student_id": 9,
+			"major": "art"
+		},
+		{
+			"first_name": "Josey",
+			"last_name": "Rawlyns",
+			"student_id": 14,
+			"major": "art"
+		},
+		{
+			"first_name": "Tyrus",
+			"last_name": "Rochford",
+			"student_id": 26,
+			"major": "art"
+		},
+		{
+			"first_name": "Patty",
+			"last_name": "Gate",
+			"student_id": 29,
+			"major": "art"
+		},
+		{
+			"first_name": "Brucie",
+			"last_name": "Attfield",
+			"student_id": 33,
+			"major": "art"
+		},
+		{
+			"first_name": "Dolley",
+			"last_name": "Antognetti",
+			"student_id": 34,
+			"major": "art"
+		},
+		{
+			"first_name": "Urbanus",
+			"last_name": "Saul",
+			"student_id": 35,
+			"major": "art"
+		},
+		{
+			"first_name": "Lenette",
+			"last_name": "Baudinot",
+			"student_id": 39,
+			"major": "art"
+		},
+		{
+			"first_name": "Cross",
+			"last_name": "Nickoll",
+			"student_id": 41,
+			"major": "art"
+		},
+		{
+			"first_name": "Bastien",
+			"last_name": "Canby",
+			"student_id": 42,
+			"major": "art"
+		},
+		{
+			"first_name": "Leticia",
+			"last_name": "Hoggins",
+			"student_id": 45,
+			"major": "art"
+		},
+		{
+			"first_name": "Lucas",
+			"last_name": "Haliburn",
+			"student_id": 48,
+			"major": "art"
+		},
+		{
+			"first_name": "Vern",
+			"last_name": "Beacroft",
+			"student_id": 52,
+			"major": "art"
+		},
+		{
+			"first_name": "Shirlee",
+			"last_name": "Goodfield",
+			"student_id": 54,
+			"major": "art"
+		},
+		{
+			"first_name": "Celene",
+			"last_name": "Syres",
+			"student_id": 60,
+			"major": "art"
+		},
+		{
+			"first_name": "Charin",
+			"last_name": "Wiggins",
+			"student_id": 64,
+			"major": "art"
+		},
+		{
+			"first_name": "Irena",
+			"last_name": "Courtois",
+			"student_id": 78,
+			"major": "art"
+		},
+		{
+			"first_name": "Phebe",
+			"last_name": "Sealy",
+			"student_id": 82,
+			"major": "art"
+		},
+		{
+			"first_name": "Eleanore",
+			"last_name": "Genike",
+			"student_id": 85,
+			"major": "art"
+		},
+		{
+			"first_name": "Eddie",
+			"last_name": "Duddridge",
+			"student_id": 86,
+			"major": "art"
+		},
+		{
+			"first_name": "Svend",
+			"last_name": "Mullally",
+			"student_id": 87,
+			"major": "art"
+		},
+		{
+			"first_name": "Annadiana",
+			"last_name": "Furmonger",
+			"student_id": 104,
+			"major": "art"
+		},
+		{
+			"first_name": "Nathalie",
+			"last_name": "Shadwick",
+			"student_id": 117,
+			"major": "art"
+		},
+		{
+			"first_name": "Malcolm",
+			"last_name": "Deex",
+			"student_id": 121,
+			"major": "art"
+		},
+		{
+			"first_name": "Garrick",
+			"last_name": "Ridder",
+			"student_id": 135,
+			"major": "art"
+		},
+		{
+			"first_name": "Huntington",
+			"last_name": "McHale",
+			"student_id": 137,
+			"major": "art"
+		},
+		{
+			"first_name": "Paolina",
+			"last_name": "Schruurs",
+			"student_id": 139,
+			"major": "art"
+		},
+		{
+			"first_name": "Bobbie",
+			"last_name": "Foot",
+			"student_id": 145,
+			"major": "art"
+		},
+		{
+			"first_name": "Adel",
+			"last_name": "Harron",
+			"student_id": 155,
+			"major": "art"
+		},
+		{
+			"first_name": "Marlene",
+			"last_name": "De Castri",
+			"student_id": 160,
+			"major": "art"
+		},
+		{
+			"first_name": "Nan",
+			"last_name": "Sember",
+			"student_id": 161,
+			"major": "art"
+		},
+		{
+			"first_name": "Benedick",
+			"last_name": "Deakins",
+			"student_id": 162,
+			"major": "art"
+		},
+		{
+			"first_name": "Hubey",
+			"last_name": "Frear",
+			"student_id": 163,
+			"major": "art"
+		},
+		{
+			"first_name": "Aileen",
+			"last_name": "Polack",
+			"student_id": 165,
+			"major": "art"
+		},
+		{
+			"first_name": "Lurette",
+			"last_name": "Wilkenson",
+			"student_id": 171,
+			"major": "art"
+		},
+		{
+			"first_name": "Yolanthe",
+			"last_name": "Chasemoore",
+			"student_id": 174,
+			"major": "art"
+		},
+		{
+			"first_name": "Stormy",
+			"last_name": "Lerigo",
+			"student_id": 182,
+			"major": "art"
+		},
+		{
+			"first_name": "Tabb",
+			"last_name": "Wittier",
+			"student_id": 189,
+			"major": "art"
+		},
+		{
+			"first_name": "Tilly",
+			"last_name": "Valero",
+			"student_id": 201,
+			"major": "art"
+		},
+		{
+			"first_name": "Tandie",
+			"last_name": "Klehyn",
+			"student_id": 202,
+			"major": "art"
+		},
+		{
+			"first_name": "Starlene",
+			"last_name": "Prestney",
+			"student_id": 210,
+			"major": "art"
+		},
+		{
+			"first_name": "Hi",
+			"last_name": "Robker",
+			"student_id": 212,
+			"major": "art"
+		},
+		{
+			"first_name": "Brewer",
+			"last_name": "Lie",
+			"student_id": 215,
+			"major": "art"
+		},
+		{
+			"first_name": "Dayna",
+			"last_name": "Skipping",
+			"student_id": 218,
+			"major": "art"
+		},
+		{
+			"first_name": "Perla",
+			"last_name": "Kings",
+			"student_id": 224,
+			"major": "art"
+		},
+		{
+			"first_name": "Neils",
+			"last_name": "McCullouch",
+			"student_id": 236,
+			"major": "art"
+		},
+		{
+			"first_name": "Obie",
+			"last_name": "Hannan",
+			"student_id": 239,
+			"major": "art"
+		},
+		{
+			"first_name": "Frederique",
+			"last_name": "Blackburne",
+			"student_id": 241,
+			"major": "art"
+		},
+		{
+			"first_name": "Aland",
+			"last_name": "Birtles",
+			"student_id": 246,
+			"major": "art"
+		},
+		{
+			"first_name": "Genia",
+			"last_name": "Loftus",
+			"student_id": 247,
+			"major": "art"
+		},
+		{
+			"first_name": "Jonathan",
+			"last_name": "Lowsely",
+			"student_id": 249,
+			"major": "art"
+		},
+		{
+			"first_name": "Wilton",
+			"last_name": "Shivlin",
+			"student_id": 255,
+			"major": "art"
+		},
+		{
+			"first_name": "Chilton",
+			"last_name": "Walch",
+			"student_id": 259,
+			"major": "art"
+		},
+		{
+			"first_name": "Birgit",
+			"last_name": "Tracey",
+			"student_id": 260,
+			"major": "art"
+		},
+		{
+			"first_name": "Leone",
+			"last_name": "Karlicek",
+			"student_id": 261,
+			"major": "art"
+		},
+		{
+			"first_name": "Steve",
+			"last_name": "Nani",
+			"student_id": 263,
+			"major": "art"
+		},
+		{
+			"first_name": "Ellissa",
+			"last_name": "Adolf",
+			"student_id": 271,
+			"major": "art"
+		},
+		{
+			"first_name": "Parker",
+			"last_name": "Tunder",
+			"student_id": 276,
+			"major": "art"
+		},
+		{
+			"first_name": "Rhodia",
+			"last_name": "Daniell",
+			"student_id": 277,
+			"major": "art"
+		},
+		{
+			"first_name": "Bobine",
+			"last_name": "Matuskiewicz",
+			"student_id": 285,
+			"major": "art"
+		},
+		{
+			"first_name": "Cordell",
+			"last_name": "Gipp",
+			"student_id": 293,
+			"major": "art"
+		},
+		{
+			"first_name": "Pen",
+			"last_name": "Benns",
+			"student_id": 294,
+			"major": "art"
+		},
+		{
+			"first_name": "Hadrian",
+			"last_name": "Stockall",
+			"student_id": 296,
+			"major": "art"
+		},
+		{
+			"first_name": "Laughton",
+			"last_name": "Critch",
+			"student_id": 301,
+			"major": "art"
+		},
+		{
+			"first_name": "Wilhelmina",
+			"last_name": "Gregs",
+			"student_id": 316,
+			"major": "art"
+		},
+		{
+			"first_name": "Binni",
+			"last_name": "Osgar",
+			"student_id": 317,
+			"major": "art"
+		},
+		{
+			"first_name": "Mollee",
+			"last_name": "Tudge",
+			"student_id": 318,
+			"major": "art"
+		},
+		{
+			"first_name": "Roanna",
+			"last_name": "Gantley",
+			"student_id": 320,
+			"major": "art"
+		},
+		{
+			"first_name": "Izzy",
+			"last_name": "Matyushonok",
+			"student_id": 322,
+			"major": "art"
+		},
+		{
+			"first_name": "Joelly",
+			"last_name": "Ballach",
+			"student_id": 324,
+			"major": "art"
+		},
+		{
+			"first_name": "Westleigh",
+			"last_name": "Sainthill",
+			"student_id": 332,
+			"major": "art"
+		},
+		{
+			"first_name": "Guthrie",
+			"last_name": "Preene",
+			"student_id": 334,
+			"major": "art"
+		},
+		{
+			"first_name": "Darnall",
+			"last_name": "Espadas",
+			"student_id": 335,
+			"major": "art"
+		},
+		{
+			"first_name": "Reider",
+			"last_name": "Lambertini",
+			"student_id": 337,
+			"major": "art"
+		},
+		{
+			"first_name": "Joyous",
+			"last_name": "Westoff",
+			"student_id": 341,
+			"major": "art"
+		},
+		{
+			"first_name": "Ladonna",
+			"last_name": "Keep",
+			"student_id": 364,
+			"major": "art"
+		},
+		{
+			"first_name": "Benjamen",
+			"last_name": "Garnham",
+			"student_id": 365,
+			"major": "art"
+		},
+		{
+			"first_name": "Rasla",
+			"last_name": "Cavilla",
+			"student_id": 367,
+			"major": "art"
+		},
+		{
+			"first_name": "Kerry",
+			"last_name": "Peterffy",
+			"student_id": 369,
+			"major": "art"
+		},
+		{
+			"first_name": "Lindsey",
+			"last_name": "Brizell",
+			"student_id": 385,
+			"major": "art"
+		},
+		{
+			"first_name": "Ulick",
+			"last_name": "Letrange",
+			"student_id": 386,
+			"major": "art"
+		},
+		{
+			"first_name": "Bette-ann",
+			"last_name": "Mollen",
+			"student_id": 390,
+			"major": "art"
+		},
+		{
+			"first_name": "Rheta",
+			"last_name": "Goom",
+			"student_id": 399,
+			"major": "art"
+		},
+		{
+			"first_name": "Lira",
+			"last_name": "Gatherell",
+			"student_id": 405,
+			"major": "art"
+		},
+		{
+			"first_name": "Katie",
+			"last_name": "Poluzzi",
+			"student_id": 409,
+			"major": "art"
+		},
+		{
+			"first_name": "Algernon",
+			"last_name": "Miskelly",
+			"student_id": 410,
+			"major": "art"
+		},
+		{
+			"first_name": "Xylina",
+			"last_name": "Gumly",
+			"student_id": 419,
+			"major": "art"
+		},
+		{
+			"first_name": "Byrann",
+			"last_name": "Basile",
+			"student_id": 421,
+			"major": "art"
+		},
+		{
+			"first_name": "Cart",
+			"last_name": "Dudlestone",
+			"student_id": 425,
+			"major": "art"
+		},
+		{
+			"first_name": "Rosalyn",
+			"last_name": "Timlett",
+			"student_id": 426,
+			"major": "art"
+		},
+		{
+			"first_name": "Abbe",
+			"last_name": "Cicculini",
+			"student_id": 427,
+			"major": "art"
+		},
+		{
+			"first_name": "Alanah",
+			"last_name": "Altoft",
+			"student_id": 430,
+			"major": "art"
+		},
+		{
+			"first_name": "Amery",
+			"last_name": "Pantling",
+			"student_id": 431,
+			"major": "art"
+		},
+		{
+			"first_name": "Steward",
+			"last_name": "Edmondson",
+			"student_id": 433,
+			"major": "art"
+		},
+		{
+			"first_name": "Barnabe",
+			"last_name": "Rupp",
+			"student_id": 437,
+			"major": "art"
+		},
+		{
+			"first_name": "Alessandro",
+			"last_name": "Jeyes",
+			"student_id": 438,
+			"major": "art"
+		},
+		{
+			"first_name": "Red",
+			"last_name": "Pardue",
+			"student_id": 439,
+			"major": "art"
+		},
+		{
+			"first_name": "Jayne",
+			"last_name": "Chestney",
+			"student_id": 440,
+			"major": "art"
+		},
+		{
+			"first_name": "Edithe",
+			"last_name": "Duly",
+			"student_id": 442,
+			"major": "art"
+		},
+		{
+			"first_name": "Dalton",
+			"last_name": "Farmery",
+			"student_id": 447,
+			"major": "art"
+		},
+		{
+			"first_name": "Cristy",
+			"last_name": "Vasey",
+			"student_id": 459,
+			"major": "art"
+		},
+		{
+			"first_name": "Claudio",
+			"last_name": "Vayne",
+			"student_id": 463,
+			"major": "art"
+		},
+		{
+			"first_name": "Urbain",
+			"last_name": "Probet",
+			"student_id": 473,
+			"major": "art"
+		},
+		{
+			"first_name": "Yorgo",
+			"last_name": "Gantzman",
+			"student_id": 485,
+			"major": "art"
+		},
+		{
+			"first_name": "Kellia",
+			"last_name": "Parnby",
+			"student_id": 492,
+			"major": "art"
+		},
+		{
+			"first_name": "Steven",
+			"last_name": "Seawell",
+			"student_id": 503,
+			"major": "art"
+		},
+		{
+			"first_name": "Goldy",
+			"last_name": "Saben",
+			"student_id": 505,
+			"major": "art"
+		},
+		{
+			"first_name": "Tamas",
+			"last_name": "Klehyn",
+			"student_id": 506,
+			"major": "art"
+		},
+		{
+			"first_name": "Sebastiano",
+			"last_name": "Wansbury",
+			"student_id": 510,
+			"major": "art"
+		},
+		{
+			"first_name": "Sabina",
+			"last_name": "McIlvenny",
+			"student_id": 513,
+			"major": "art"
+		},
+		{
+			"first_name": "Orland",
+			"last_name": "Blenkinsop",
+			"student_id": 519,
+			"major": "art"
+		},
+		{
+			"first_name": "Lottie",
+			"last_name": "Bulcock",
+			"student_id": 523,
+			"major": "art"
+		},
+		{
+			"first_name": "Bjorn",
+			"last_name": "Hunt",
+			"student_id": 532,
+			"major": "art"
+		},
+		{
+			"first_name": "Roth",
+			"last_name": "Eames",
+			"student_id": 539,
+			"major": "art"
+		},
+		{
+			"first_name": "Arlena",
+			"last_name": "Menlove",
+			"student_id": 540,
+			"major": "art"
+		},
+		{
+			"first_name": "Josy",
+			"last_name": "Yankeev",
+			"student_id": 543,
+			"major": "art"
+		},
+		{
+			"first_name": "Stevena",
+			"last_name": "Eggleson",
+			"student_id": 544,
+			"major": "art"
+		},
+		{
+			"first_name": "Aloysia",
+			"last_name": "Babalola",
+			"student_id": 545,
+			"major": "art"
+		},
+		{
+			"first_name": "Georgeanne",
+			"last_name": "Gladman",
+			"student_id": 550,
+			"major": "art"
+		},
+		{
+			"first_name": "Alisa",
+			"last_name": "Sapey",
+			"student_id": 551,
+			"major": "art"
+		},
+		{
+			"first_name": "Ola",
+			"last_name": "Priddey",
+			"student_id": 559,
+			"major": "art"
+		},
+		{
+			"first_name": "Seymour",
+			"last_name": "Pallas",
+			"student_id": 560,
+			"major": "art"
+		},
+		{
+			"first_name": "Turner",
+			"last_name": "Large",
+			"student_id": 572,
+			"major": "art"
+		},
+		{
+			"first_name": "Gwenore",
+			"last_name": "Penchen",
+			"student_id": 576,
+			"major": "art"
+		},
+		{
+			"first_name": "Isador",
+			"last_name": "Langsbury",
+			"student_id": 579,
+			"major": "art"
+		},
+		{
+			"first_name": "Fanny",
+			"last_name": "Guyton",
+			"student_id": 584,
+			"major": "art"
+		},
+		{
+			"first_name": "Theadora",
+			"last_name": "Batchelor",
+			"student_id": 589,
+			"major": "art"
+		},
+		{
+			"first_name": "Patience",
+			"last_name": "Chapier",
+			"student_id": 592,
+			"major": "art"
+		},
+		{
+			"first_name": "Port",
+			"last_name": "Pimlock",
+			"student_id": 597,
+			"major": "art"
+		},
+		{
+			"first_name": "Granger",
+			"last_name": "Bulcock",
+			"student_id": 599,
+			"major": "art"
+		},
+		{
+			"first_name": "Fraze",
+			"last_name": "Whiles",
+			"student_id": 600,
+			"major": "art"
+		},
+		{
+			"first_name": "Vicky",
+			"last_name": "Tolotti",
+			"student_id": 612,
+			"major": "art"
+		},
+		{
+			"first_name": "Thibaut",
+			"last_name": "Tanton",
+			"student_id": 613,
+			"major": "art"
+		},
+		{
+			"first_name": "Brigham",
+			"last_name": "Mullord",
+			"student_id": 615,
+			"major": "art"
+		},
+		{
+			"first_name": "Jule",
+			"last_name": "Osgerby",
+			"student_id": 620,
+			"major": "art"
+		},
+		{
+			"first_name": "Krissie",
+			"last_name": "Powelee",
+			"student_id": 625,
+			"major": "art"
+		},
+		{
+			"first_name": "Teddie",
+			"last_name": "Selburn",
+			"student_id": 627,
+			"major": "art"
+		},
+		{
+			"first_name": "Dinnie",
+			"last_name": "Boog",
+			"student_id": 629,
+			"major": "art"
+		},
+		{
+			"first_name": "Brittani",
+			"last_name": "Bastable",
+			"student_id": 635,
+			"major": "art"
+		},
+		{
+			"first_name": "Kaja",
+			"last_name": "Westgate",
+			"student_id": 640,
+			"major": "art"
+		},
+		{
+			"first_name": "Dion",
+			"last_name": "Goacher",
+			"student_id": 648,
+			"major": "art"
+		},
+		{
+			"first_name": "Diana",
+			"last_name": "Mellers",
+			"student_id": 652,
+			"major": "art"
+		},
+		{
+			"first_name": "Elijah",
+			"last_name": "Klemenz",
+			"student_id": 657,
+			"major": "art"
+		},
+		{
+			"first_name": "Tamarra",
+			"last_name": "Smeeton",
+			"student_id": 659,
+			"major": "art"
+		},
+		{
+			"first_name": "Corty",
+			"last_name": "McGillecole",
+			"student_id": 660,
+			"major": "art"
+		},
+		{
+			"first_name": "Yance",
+			"last_name": "Spridgen",
+			"student_id": 670,
+			"major": "art"
+		},
+		{
+			"first_name": "Aigneis",
+			"last_name": "Gyenes",
+			"student_id": 673,
+			"major": "art"
+		},
+		{
+			"first_name": "Cosme",
+			"last_name": "Sugge",
+			"student_id": 680,
+			"major": "art"
+		},
+		{
+			"first_name": "Shay",
+			"last_name": "Grzelczyk",
+			"student_id": 687,
+			"major": "art"
+		},
+		{
+			"first_name": "Holly-anne",
+			"last_name": "Ralphs",
+			"student_id": 688,
+			"major": "art"
+		},
+		{
+			"first_name": "Abdul",
+			"last_name": "Drew",
+			"student_id": 690,
+			"major": "art"
+		},
+		{
+			"first_name": "Forest",
+			"last_name": "Grimbaldeston",
+			"student_id": 691,
+			"major": "art"
+		},
+		{
+			"first_name": "Ted",
+			"last_name": "Damrel",
+			"student_id": 697,
+			"major": "art"
+		},
+		{
+			"first_name": "Sheeree",
+			"last_name": "Widdows",
+			"student_id": 703,
+			"major": "art"
+		},
+		{
+			"first_name": "Hayes",
+			"last_name": "Haldane",
+			"student_id": 706,
+			"major": "art"
+		},
+		{
+			"first_name": "Irene",
+			"last_name": "Coie",
+			"student_id": 731,
+			"major": "art"
+		},
+		{
+			"first_name": "Kaitlin",
+			"last_name": "Lowmass",
+			"student_id": 739,
+			"major": "art"
+		},
+		{
+			"first_name": "Ulberto",
+			"last_name": "Rodgers",
+			"student_id": 740,
+			"major": "art"
+		},
+		{
+			"first_name": "Basia",
+			"last_name": "Blockwell",
+			"student_id": 746,
+			"major": "art"
+		},
+		{
+			"first_name": "Greer",
+			"last_name": "Tigwell",
+			"student_id": 750,
+			"major": "art"
+		},
+		{
+			"first_name": "Gustave",
+			"last_name": "Mullineux",
+			"student_id": 754,
+			"major": "art"
+		},
+		{
+			"first_name": "Prissie",
+			"last_name": "Schurcke",
+			"student_id": 759,
+			"major": "art"
+		},
+		{
+			"first_name": "Paloma",
+			"last_name": "Scoyne",
+			"student_id": 765,
+			"major": "art"
+		},
+		{
+			"first_name": "Yorgos",
+			"last_name": "Riddell",
+			"student_id": 771,
+			"major": "art"
+		},
+		{
+			"first_name": "Ansell",
+			"last_name": "Barsam",
+			"student_id": 773,
+			"major": "art"
+		},
+		{
+			"first_name": "Kevan",
+			"last_name": "Pauler",
+			"student_id": 774,
+			"major": "art"
+		},
+		{
+			"first_name": "Bruce",
+			"last_name": "Birchenhead",
+			"student_id": 778,
+			"major": "art"
+		},
+		{
+			"first_name": "Jessika",
+			"last_name": "Inde",
+			"student_id": 783,
+			"major": "art"
+		},
+		{
+			"first_name": "Nikolaus",
+			"last_name": "Jannequin",
+			"student_id": 786,
+			"major": "art"
+		},
+		{
+			"first_name": "Jacob",
+			"last_name": "Grzelczak",
+			"student_id": 793,
+			"major": "art"
+		},
+		{
+			"first_name": "Eal",
+			"last_name": "Jack",
+			"student_id": 805,
+			"major": "art"
+		},
+		{
+			"first_name": "Hewitt",
+			"last_name": "Dymidowski",
+			"student_id": 810,
+			"major": "art"
+		},
+		{
+			"first_name": "Vallie",
+			"last_name": "Sansam",
+			"student_id": 811,
+			"major": "art"
+		},
+		{
+			"first_name": "Cilka",
+			"last_name": "Doucette",
+			"student_id": 814,
+			"major": "art"
+		},
+		{
+			"first_name": "Tomas",
+			"last_name": "Moores",
+			"student_id": 828,
+			"major": "art"
+		},
+		{
+			"first_name": "Ora",
+			"last_name": "Dines",
+			"student_id": 836,
+			"major": "art"
+		},
+		{
+			"first_name": "Dag",
+			"last_name": "Banton",
+			"student_id": 857,
+			"major": "art"
+		},
+		{
+			"first_name": "Edwina",
+			"last_name": "Pepall",
+			"student_id": 868,
+			"major": "art"
+		},
+		{
+			"first_name": "Inga",
+			"last_name": "Durek",
+			"student_id": 884,
+			"major": "art"
+		},
+		{
+			"first_name": "Neville",
+			"last_name": "Hauxby",
+			"student_id": 888,
+			"major": "art"
+		},
+		{
+			"first_name": "Winny",
+			"last_name": "Axon",
+			"student_id": 905,
+			"major": "art"
+		},
+		{
+			"first_name": "Marijn",
+			"last_name": "Danielovitch",
+			"student_id": 918,
+			"major": "art"
+		},
+		{
+			"first_name": "Humbert",
+			"last_name": "Vanetti",
+			"student_id": 922,
+			"major": "art"
+		},
+		{
+			"first_name": "Van",
+			"last_name": "Maplethorpe",
+			"student_id": 928,
+			"major": "art"
+		},
+		{
+			"first_name": "Alida",
+			"last_name": "Short",
+			"student_id": 929,
+			"major": "art"
+		},
+		{
+			"first_name": "Ula",
+			"last_name": "Dun",
+			"student_id": 937,
+			"major": "art"
+		},
+		{
+			"first_name": "Virgina",
+			"last_name": "Piscot",
+			"student_id": 938,
+			"major": "art"
+		},
+		{
+			"first_name": "Stevie",
+			"last_name": "Lardeux",
+			"student_id": 940,
+			"major": "art"
+		},
+		{
+			"first_name": "Vina",
+			"last_name": "Fraine",
+			"student_id": 945,
+			"major": "art"
+		},
+		{
+			"first_name": "Ardath",
+			"last_name": "Lewis",
+			"student_id": 954,
+			"major": "art"
+		},
+		{
+			"first_name": "Angelina",
+			"last_name": "Godon",
+			"student_id": 957,
+			"major": "art"
+		},
+		{
+			"first_name": "Gardner",
+			"last_name": "Upward",
+			"student_id": 958,
+			"major": "art"
+		},
+		{
+			"first_name": "Lurline",
+			"last_name": "Stiell",
+			"student_id": 960,
+			"major": "art"
+		},
+		{
+			"first_name": "Adrianna",
+			"last_name": "Vogel",
+			"student_id": 964,
+			"major": "art"
+		},
+		{
+			"first_name": "Nancie",
+			"last_name": "Ranscomb",
+			"student_id": 968,
+			"major": "art"
+		},
+		{
+			"first_name": "Madelena",
+			"last_name": "Mulcock",
+			"student_id": 972,
+			"major": "art"
+		},
+		{
+			"first_name": "Dukey",
+			"last_name": "Ogley",
+			"student_id": 974,
+			"major": "art"
+		},
+		{
+			"first_name": "Mack",
+			"last_name": "Astbury",
+			"student_id": 975,
+			"major": "art"
+		},
+		{
+			"first_name": "Carri",
+			"last_name": "MacFie",
+			"student_id": 982,
+			"major": "art"
+		},
+		{
+			"first_name": "Ingmar",
+			"last_name": "Grills",
+			"student_id": 985,
+			"major": "art"
+		},
+		{
+			"first_name": "Kaycee",
+			"last_name": "Reynard",
+			"student_id": 990,
+			"major": "art"
+		},
+		{
+			"first_name": "Velma",
+			"last_name": "Ivanovic",
+			"student_id": 999,
+			"major": "art"
+		}
+	],
+	"math": [
+		{
+			"first_name": "Cosme",
+			"last_name": "De Roos",
+			"student_id": 3,
+			"major": "math"
+		},
+		{
+			"first_name": "Norton",
+			"last_name": "Downage",
+			"student_id": 4,
+			"major": "math"
+		},
+		{
+			"first_name": "Britt",
+			"last_name": "Ridgley",
+			"student_id": 7,
+			"major": "math"
+		},
+		{
+			"first_name": "Fenelia",
+			"last_name": "Crepel",
+			"student_id": 8,
+			"major": "math"
+		},
+		{
+			"first_name": "Claire",
+			"last_name": "Giocannoni",
+			"student_id": 12,
+			"major": "math"
+		},
+		{
+			"first_name": "Cly",
+			"last_name": "Ripley",
+			"student_id": 13,
+			"major": "math"
+		},
+		{
+			"first_name": "Kelly",
+			"last_name": "Witherup",
+			"student_id": 15,
+			"major": "math"
+		},
+		{
+			"first_name": "Izaak",
+			"last_name": "Cousen",
+			"student_id": 17,
+			"major": "math"
+		},
+		{
+			"first_name": "Denny",
+			"last_name": "Abrahmson",
+			"student_id": 18,
+			"major": "math"
+		},
+		{
+			"first_name": "Dee",
+			"last_name": "Stuchberry",
+			"student_id": 20,
+			"major": "math"
+		},
+		{
+			"first_name": "Melonie",
+			"last_name": "Brassington",
+			"student_id": 21,
+			"major": "math"
+		},
+		{
+			"first_name": "Lexi",
+			"last_name": "Lindwasser",
+			"student_id": 30,
+			"major": "math"
+		},
+		{
+			"first_name": "Shep",
+			"last_name": "Roby",
+			"student_id": 38,
+			"major": "math"
+		},
+		{
+			"first_name": "Nefen",
+			"last_name": "Witling",
+			"student_id": 43,
+			"major": "math"
+		},
+		{
+			"first_name": "Chlo",
+			"last_name": "McKellar",
+			"student_id": 51,
+			"major": "math"
+		},
+		{
+			"first_name": "Merrile",
+			"last_name": "Langman",
+			"student_id": 57,
+			"major": "math"
+		},
+		{
+			"first_name": "Ignacio",
+			"last_name": "Posner",
+			"student_id": 58,
+			"major": "math"
+		},
+		{
+			"first_name": "Iorgo",
+			"last_name": "Seager",
+			"student_id": 66,
+			"major": "math"
+		},
+		{
+			"first_name": "Correy",
+			"last_name": "Larmet",
+			"student_id": 69,
+			"major": "math"
+		},
+		{
+			"first_name": "Zacharia",
+			"last_name": "McMennum",
+			"student_id": 70,
+			"major": "math"
+		},
+		{
+			"first_name": "Lowe",
+			"last_name": "Toothill",
+			"student_id": 73,
+			"major": "math"
+		},
+		{
+			"first_name": "Marlee",
+			"last_name": "Ruslinge",
+			"student_id": 80,
+			"major": "math"
+		},
+		{
+			"first_name": "Camila",
+			"last_name": "Mattea",
+			"student_id": 90,
+			"major": "math"
+		},
+		{
+			"first_name": "Cookie",
+			"last_name": "Buckoke",
+			"student_id": 91,
+			"major": "math"
+		},
+		{
+			"first_name": "Joletta",
+			"last_name": "Goadbie",
+			"student_id": 92,
+			"major": "math"
+		},
+		{
+			"first_name": "Rosalinde",
+			"last_name": "Izaac",
+			"student_id": 115,
+			"major": "math"
+		},
+		{
+			"first_name": "Ericka",
+			"last_name": "Peaker",
+			"student_id": 116,
+			"major": "math"
+		},
+		{
+			"first_name": "Hoebart",
+			"last_name": "Cleave",
+			"student_id": 118,
+			"major": "math"
+		},
+		{
+			"first_name": "Phelia",
+			"last_name": "Bachs",
+			"student_id": 124,
+			"major": "math"
+		},
+		{
+			"first_name": "Maximilianus",
+			"last_name": "Dahmel",
+			"student_id": 125,
+			"major": "math"
+		},
+		{
+			"first_name": "Siffre",
+			"last_name": "Stevenson",
+			"student_id": 130,
+			"major": "math"
+		},
+		{
+			"first_name": "Matti",
+			"last_name": "Govern",
+			"student_id": 132,
+			"major": "math"
+		},
+		{
+			"first_name": "Pietrek",
+			"last_name": "Sich",
+			"student_id": 138,
+			"major": "math"
+		},
+		{
+			"first_name": "Anitra",
+			"last_name": "Benzing",
+			"student_id": 140,
+			"major": "math"
+		},
+		{
+			"first_name": "Marillin",
+			"last_name": "Jessen",
+			"student_id": 141,
+			"major": "math"
+		},
+		{
+			"first_name": "Ryley",
+			"last_name": "Denzilow",
+			"student_id": 146,
+			"major": "math"
+		},
+		{
+			"first_name": "Karen",
+			"last_name": "Arnett",
+			"student_id": 152,
+			"major": "math"
+		},
+		{
+			"first_name": "Winona",
+			"last_name": "Skully",
+			"student_id": 159,
+			"major": "math"
+		},
+		{
+			"first_name": "Jerald",
+			"last_name": "Bramford",
+			"student_id": 164,
+			"major": "math"
+		},
+		{
+			"first_name": "Zane",
+			"last_name": "Kyndred",
+			"student_id": 170,
+			"major": "math"
+		},
+		{
+			"first_name": "Kayla",
+			"last_name": "Whitecross",
+			"student_id": 175,
+			"major": "math"
+		},
+		{
+			"first_name": "Goldy",
+			"last_name": "Hollows",
+			"student_id": 180,
+			"major": "math"
+		},
+		{
+			"first_name": "Josi",
+			"last_name": "Line",
+			"student_id": 181,
+			"major": "math"
+		},
+		{
+			"first_name": "Arman",
+			"last_name": "Boundey",
+			"student_id": 183,
+			"major": "math"
+		},
+		{
+			"first_name": "Raven",
+			"last_name": "Syder",
+			"student_id": 187,
+			"major": "math"
+		},
+		{
+			"first_name": "Luciano",
+			"last_name": "Danovich",
+			"student_id": 195,
+			"major": "math"
+		},
+		{
+			"first_name": "Cyrill",
+			"last_name": "Coldman",
+			"student_id": 200,
+			"major": "math"
+		},
+		{
+			"first_name": "Al",
+			"last_name": "Djokovic",
+			"student_id": 203,
+			"major": "math"
+		},
+		{
+			"first_name": "Abbot",
+			"last_name": "Pedro",
+			"student_id": 204,
+			"major": "math"
+		},
+		{
+			"first_name": "Pepi",
+			"last_name": "Burgiss",
+			"student_id": 206,
+			"major": "math"
+		},
+		{
+			"first_name": "Jackie",
+			"last_name": "Giorgio",
+			"student_id": 207,
+			"major": "math"
+		},
+		{
+			"first_name": "Herve",
+			"last_name": "Fetherstone",
+			"student_id": 222,
+			"major": "math"
+		},
+		{
+			"first_name": "Kirk",
+			"last_name": "Eshelby",
+			"student_id": 225,
+			"major": "math"
+		},
+		{
+			"first_name": "Dianne",
+			"last_name": "Erickson",
+			"student_id": 226,
+			"major": "math"
+		},
+		{
+			"first_name": "Mace",
+			"last_name": "Joseland",
+			"student_id": 231,
+			"major": "math"
+		},
+		{
+			"first_name": "Linette",
+			"last_name": "Willoughey",
+			"student_id": 233,
+			"major": "math"
+		},
+		{
+			"first_name": "Katti",
+			"last_name": "Mulvaney",
+			"student_id": 235,
+			"major": "math"
+		},
+		{
+			"first_name": "Ruthie",
+			"last_name": "Fenne",
+			"student_id": 243,
+			"major": "math"
+		},
+		{
+			"first_name": "Giff",
+			"last_name": "Clery",
+			"student_id": 245,
+			"major": "math"
+		},
+		{
+			"first_name": "Leandra",
+			"last_name": "Arminger",
+			"student_id": 251,
+			"major": "math"
+		},
+		{
+			"first_name": "Jammie",
+			"last_name": "Kimmince",
+			"student_id": 252,
+			"major": "math"
+		},
+		{
+			"first_name": "Virginie",
+			"last_name": "Lubbock",
+			"student_id": 256,
+			"major": "math"
+		},
+		{
+			"first_name": "Bonny",
+			"last_name": "De Winton",
+			"student_id": 258,
+			"major": "math"
+		},
+		{
+			"first_name": "Giordano",
+			"last_name": "Paradine",
+			"student_id": 264,
+			"major": "math"
+		},
+		{
+			"first_name": "Dimitri",
+			"last_name": "Mallord",
+			"student_id": 273,
+			"major": "math"
+		},
+		{
+			"first_name": "Ulrikaumeko",
+			"last_name": "Desporte",
+			"student_id": 279,
+			"major": "math"
+		},
+		{
+			"first_name": "Christi",
+			"last_name": "Durtnall",
+			"student_id": 281,
+			"major": "math"
+		},
+		{
+			"first_name": "Benjy",
+			"last_name": "Pembridge",
+			"student_id": 284,
+			"major": "math"
+		},
+		{
+			"first_name": "Cosetta",
+			"last_name": "Effaunt",
+			"student_id": 295,
+			"major": "math"
+		},
+		{
+			"first_name": "Pablo",
+			"last_name": "Kettlewell",
+			"student_id": 298,
+			"major": "math"
+		},
+		{
+			"first_name": "Brennen",
+			"last_name": "Brayley",
+			"student_id": 300,
+			"major": "math"
+		},
+		{
+			"first_name": "Tony",
+			"last_name": "Louiset",
+			"student_id": 303,
+			"major": "math"
+		},
+		{
+			"first_name": "Lettie",
+			"last_name": "Venus",
+			"student_id": 306,
+			"major": "math"
+		},
+		{
+			"first_name": "Sheridan",
+			"last_name": "Deegan",
+			"student_id": 325,
+			"major": "math"
+		},
+		{
+			"first_name": "Yankee",
+			"last_name": "Hinckesman",
+			"student_id": 331,
+			"major": "math"
+		},
+		{
+			"first_name": "Ardelia",
+			"last_name": "Haylands",
+			"student_id": 339,
+			"major": "math"
+		},
+		{
+			"first_name": "Gabriel",
+			"last_name": "Johnson",
+			"student_id": 342,
+			"major": "math"
+		},
+		{
+			"first_name": "Thebault",
+			"last_name": "Budgeon",
+			"student_id": 344,
+			"major": "math"
+		},
+		{
+			"first_name": "Giulio",
+			"last_name": "Lurcock",
+			"student_id": 345,
+			"major": "math"
+		},
+		{
+			"first_name": "Celene",
+			"last_name": "McGurk",
+			"student_id": 346,
+			"major": "math"
+		},
+		{
+			"first_name": "Rainer",
+			"last_name": "MacQuist",
+			"student_id": 348,
+			"major": "math"
+		},
+		{
+			"first_name": "Dina",
+			"last_name": "Morby",
+			"student_id": 350,
+			"major": "math"
+		},
+		{
+			"first_name": "Adamo",
+			"last_name": "Crocker",
+			"student_id": 351,
+			"major": "math"
+		},
+		{
+			"first_name": "Joanna",
+			"last_name": "Tumasian",
+			"student_id": 358,
+			"major": "math"
+		},
+		{
+			"first_name": "Gustav",
+			"last_name": "Ducket",
+			"student_id": 359,
+			"major": "math"
+		},
+		{
+			"first_name": "Minda",
+			"last_name": "Izzat",
+			"student_id": 370,
+			"major": "math"
+		},
+		{
+			"first_name": "Broddy",
+			"last_name": "Fillimore",
+			"student_id": 372,
+			"major": "math"
+		},
+		{
+			"first_name": "Larry",
+			"last_name": "Stubbes",
+			"student_id": 379,
+			"major": "math"
+		},
+		{
+			"first_name": "Dermot",
+			"last_name": "Spearing",
+			"student_id": 382,
+			"major": "math"
+		},
+		{
+			"first_name": "Brittan",
+			"last_name": "Cooke",
+			"student_id": 387,
+			"major": "math"
+		},
+		{
+			"first_name": "James",
+			"last_name": "Heaphy",
+			"student_id": 389,
+			"major": "math"
+		},
+		{
+			"first_name": "Bren",
+			"last_name": "Sarginson",
+			"student_id": 391,
+			"major": "math"
+		},
+		{
+			"first_name": "Darcy",
+			"last_name": "Hegg",
+			"student_id": 404,
+			"major": "math"
+		},
+		{
+			"first_name": "Christyna",
+			"last_name": "Wort",
+			"student_id": 406,
+			"major": "math"
+		},
+		{
+			"first_name": "Norman",
+			"last_name": "Ilchuk",
+			"student_id": 408,
+			"major": "math"
+		},
+		{
+			"first_name": "Feliks",
+			"last_name": "Dechelette",
+			"student_id": 412,
+			"major": "math"
+		},
+		{
+			"first_name": "Kinsley",
+			"last_name": "Cuseck",
+			"student_id": 415,
+			"major": "math"
+		},
+		{
+			"first_name": "Juline",
+			"last_name": "Daskiewicz",
+			"student_id": 420,
+			"major": "math"
+		},
+		{
+			"first_name": "Darell",
+			"last_name": "Podd",
+			"student_id": 424,
+			"major": "math"
+		},
+		{
+			"first_name": "Ulrich",
+			"last_name": "Livoir",
+			"student_id": 429,
+			"major": "math"
+		},
+		{
+			"first_name": "Daren",
+			"last_name": "McGifford",
+			"student_id": 434,
+			"major": "math"
+		},
+		{
+			"first_name": "Dulcea",
+			"last_name": "Bickardike",
+			"student_id": 436,
+			"major": "math"
+		},
+		{
+			"first_name": "Charlene",
+			"last_name": "Banaszczyk",
+			"student_id": 441,
+			"major": "math"
+		},
+		{
+			"first_name": "Darryl",
+			"last_name": "Hannabuss",
+			"student_id": 445,
+			"major": "math"
+		},
+		{
+			"first_name": "Durand",
+			"last_name": "Colthard",
+			"student_id": 460,
+			"major": "math"
+		},
+		{
+			"first_name": "Henryetta",
+			"last_name": "McKevitt",
+			"student_id": 461,
+			"major": "math"
+		},
+		{
+			"first_name": "Jourdain",
+			"last_name": "Skaid",
+			"student_id": 466,
+			"major": "math"
+		},
+		{
+			"first_name": "Callida",
+			"last_name": "Tinmouth",
+			"student_id": 471,
+			"major": "math"
+		},
+		{
+			"first_name": "Osborn",
+			"last_name": "McCahill",
+			"student_id": 474,
+			"major": "math"
+		},
+		{
+			"first_name": "Trumaine",
+			"last_name": "Bloxam",
+			"student_id": 479,
+			"major": "math"
+		},
+		{
+			"first_name": "Leta",
+			"last_name": "Grisbrook",
+			"student_id": 487,
+			"major": "math"
+		},
+		{
+			"first_name": "Marian",
+			"last_name": "McNair",
+			"student_id": 493,
+			"major": "math"
+		},
+		{
+			"first_name": "Ilario",
+			"last_name": "Drydale",
+			"student_id": 504,
+			"major": "math"
+		},
+		{
+			"first_name": "Toddy",
+			"last_name": "Etoile",
+			"student_id": 509,
+			"major": "math"
+		},
+		{
+			"first_name": "Osborn",
+			"last_name": "Crabtree",
+			"student_id": 517,
+			"major": "math"
+		},
+		{
+			"first_name": "Carver",
+			"last_name": "Jewess",
+			"student_id": 522,
+			"major": "math"
+		},
+		{
+			"first_name": "Gusty",
+			"last_name": "Liccardi",
+			"student_id": 525,
+			"major": "math"
+		},
+		{
+			"first_name": "Quincy",
+			"last_name": "Poulson",
+			"student_id": 548,
+			"major": "math"
+		},
+		{
+			"first_name": "Garwood",
+			"last_name": "Cowderay",
+			"student_id": 555,
+			"major": "math"
+		},
+		{
+			"first_name": "Vevay",
+			"last_name": "Gabe",
+			"student_id": 561,
+			"major": "math"
+		},
+		{
+			"first_name": "Fidelia",
+			"last_name": "Mathon",
+			"student_id": 573,
+			"major": "math"
+		},
+		{
+			"first_name": "Antonio",
+			"last_name": "Gary",
+			"student_id": 582,
+			"major": "math"
+		},
+		{
+			"first_name": "Tamara",
+			"last_name": "Mordecai",
+			"student_id": 587,
+			"major": "math"
+		},
+		{
+			"first_name": "Morgen",
+			"last_name": "Freeburn",
+			"student_id": 591,
+			"major": "math"
+		},
+		{
+			"first_name": "Margeaux",
+			"last_name": "Wollrauch",
+			"student_id": 595,
+			"major": "math"
+		},
+		{
+			"first_name": "Briano",
+			"last_name": "Kernoghan",
+			"student_id": 602,
+			"major": "math"
+		},
+		{
+			"first_name": "Kaila",
+			"last_name": "Glisane",
+			"student_id": 606,
+			"major": "math"
+		},
+		{
+			"first_name": "Timmie",
+			"last_name": "Epp",
+			"student_id": 610,
+			"major": "math"
+		},
+		{
+			"first_name": "Devy",
+			"last_name": "Burtwistle",
+			"student_id": 611,
+			"major": "math"
+		},
+		{
+			"first_name": "Corinne",
+			"last_name": "Simak",
+			"student_id": 614,
+			"major": "math"
+		},
+		{
+			"first_name": "Lamond",
+			"last_name": "Thaxton",
+			"student_id": 632,
+			"major": "math"
+		},
+		{
+			"first_name": "Nadya",
+			"last_name": "Rannald",
+			"student_id": 639,
+			"major": "math"
+		},
+		{
+			"first_name": "Stephenie",
+			"last_name": "Wisher",
+			"student_id": 641,
+			"major": "math"
+		},
+		{
+			"first_name": "Caril",
+			"last_name": "Raiman",
+			"student_id": 645,
+			"major": "math"
+		},
+		{
+			"first_name": "Gaynor",
+			"last_name": "Ruggiero",
+			"student_id": 656,
+			"major": "math"
+		},
+		{
+			"first_name": "Babbette",
+			"last_name": "Tolerton",
+			"student_id": 667,
+			"major": "math"
+		},
+		{
+			"first_name": "Gideon",
+			"last_name": "Valerius",
+			"student_id": 675,
+			"major": "math"
+		},
+		{
+			"first_name": "Trueman",
+			"last_name": "Shivell",
+			"student_id": 698,
+			"major": "math"
+		},
+		{
+			"first_name": "Roxanne",
+			"last_name": "Raiker",
+			"student_id": 699,
+			"major": "math"
+		},
+		{
+			"first_name": "Rasia",
+			"last_name": "Belasco",
+			"student_id": 704,
+			"major": "math"
+		},
+		{
+			"first_name": "Jania",
+			"last_name": "Gunn",
+			"student_id": 716,
+			"major": "math"
+		},
+		{
+			"first_name": "Rosalinde",
+			"last_name": "McFayden",
+			"student_id": 719,
+			"major": "math"
+		},
+		{
+			"first_name": "Leeann",
+			"last_name": "Ca",
+			"student_id": 724,
+			"major": "math"
+		},
+		{
+			"first_name": "Wain",
+			"last_name": "Arp",
+			"student_id": 737,
+			"major": "math"
+		},
+		{
+			"first_name": "Emanuele",
+			"last_name": "De Gregorio",
+			"student_id": 738,
+			"major": "math"
+		},
+		{
+			"first_name": "Neal",
+			"last_name": "Cronshaw",
+			"student_id": 747,
+			"major": "math"
+		},
+		{
+			"first_name": "Anica",
+			"last_name": "Pittendreigh",
+			"student_id": 751,
+			"major": "math"
+		},
+		{
+			"first_name": "Arabel",
+			"last_name": "Korous",
+			"student_id": 752,
+			"major": "math"
+		},
+		{
+			"first_name": "Izak",
+			"last_name": "Iuorio",
+			"student_id": 756,
+			"major": "math"
+		},
+		{
+			"first_name": "Mariquilla",
+			"last_name": "Ivimy",
+			"student_id": 757,
+			"major": "math"
+		},
+		{
+			"first_name": "Tillie",
+			"last_name": "Hovey",
+			"student_id": 776,
+			"major": "math"
+		},
+		{
+			"first_name": "Horatius",
+			"last_name": "Sparwell",
+			"student_id": 784,
+			"major": "math"
+		},
+		{
+			"first_name": "Dalt",
+			"last_name": "Bleything",
+			"student_id": 789,
+			"major": "math"
+		},
+		{
+			"first_name": "Lissie",
+			"last_name": "Klouz",
+			"student_id": 790,
+			"major": "math"
+		},
+		{
+			"first_name": "Troy",
+			"last_name": "Hawthorne",
+			"student_id": 791,
+			"major": "math"
+		},
+		{
+			"first_name": "Merwin",
+			"last_name": "Cudbertson",
+			"student_id": 792,
+			"major": "math"
+		},
+		{
+			"first_name": "Lin",
+			"last_name": "O'Henehan",
+			"student_id": 795,
+			"major": "math"
+		},
+		{
+			"first_name": "Alley",
+			"last_name": "Stroobant",
+			"student_id": 797,
+			"major": "math"
+		},
+		{
+			"first_name": "Adaline",
+			"last_name": "Hourahan",
+			"student_id": 798,
+			"major": "math"
+		},
+		{
+			"first_name": "Grady",
+			"last_name": "Tiller",
+			"student_id": 800,
+			"major": "math"
+		},
+		{
+			"first_name": "Cherilynn",
+			"last_name": "Grelak",
+			"student_id": 801,
+			"major": "math"
+		},
+		{
+			"first_name": "Florina",
+			"last_name": "Crichmere",
+			"student_id": 804,
+			"major": "math"
+		},
+		{
+			"first_name": "Imogen",
+			"last_name": "Cartmill",
+			"student_id": 806,
+			"major": "math"
+		},
+		{
+			"first_name": "Lucina",
+			"last_name": "Lattos",
+			"student_id": 816,
+			"major": "math"
+		},
+		{
+			"first_name": "Niko",
+			"last_name": "Jervoise",
+			"student_id": 820,
+			"major": "math"
+		},
+		{
+			"first_name": "Thurstan",
+			"last_name": "Whittenbury",
+			"student_id": 824,
+			"major": "math"
+		},
+		{
+			"first_name": "Doloritas",
+			"last_name": "Chinn",
+			"student_id": 833,
+			"major": "math"
+		},
+		{
+			"first_name": "Hugibert",
+			"last_name": "Jedrzejewski",
+			"student_id": 837,
+			"major": "math"
+		},
+		{
+			"first_name": "Alexandre",
+			"last_name": "Goodson",
+			"student_id": 846,
+			"major": "math"
+		},
+		{
+			"first_name": "Neysa",
+			"last_name": "Ciani",
+			"student_id": 848,
+			"major": "math"
+		},
+		{
+			"first_name": "Lynna",
+			"last_name": "Bodemeaid",
+			"student_id": 851,
+			"major": "math"
+		},
+		{
+			"first_name": "Leonerd",
+			"last_name": "Spurway",
+			"student_id": 852,
+			"major": "math"
+		},
+		{
+			"first_name": "Taddeusz",
+			"last_name": "Presdie",
+			"student_id": 853,
+			"major": "math"
+		},
+		{
+			"first_name": "Ermentrude",
+			"last_name": "Wilfing",
+			"student_id": 856,
+			"major": "math"
+		},
+		{
+			"first_name": "Minny",
+			"last_name": "Eldon",
+			"student_id": 858,
+			"major": "math"
+		},
+		{
+			"first_name": "Imojean",
+			"last_name": "Ainsbury",
+			"student_id": 862,
+			"major": "math"
+		},
+		{
+			"first_name": "Toiboid",
+			"last_name": "Mapham",
+			"student_id": 863,
+			"major": "math"
+		},
+		{
+			"first_name": "Krishnah",
+			"last_name": "Dawltrey",
+			"student_id": 864,
+			"major": "math"
+		},
+		{
+			"first_name": "Kittie",
+			"last_name": "Lamboll",
+			"student_id": 865,
+			"major": "math"
+		},
+		{
+			"first_name": "Ivett",
+			"last_name": "Tocqueville",
+			"student_id": 874,
+			"major": "math"
+		},
+		{
+			"first_name": "Pet",
+			"last_name": "Blaskett",
+			"student_id": 878,
+			"major": "math"
+		},
+		{
+			"first_name": "Leta",
+			"last_name": "Ambroise",
+			"student_id": 882,
+			"major": "math"
+		},
+		{
+			"first_name": "Sapphira",
+			"last_name": "Paradin",
+			"student_id": 883,
+			"major": "math"
+		},
+		{
+			"first_name": "Elfreda",
+			"last_name": "Trail",
+			"student_id": 887,
+			"major": "math"
+		},
+		{
+			"first_name": "Rosanna",
+			"last_name": "Rogier",
+			"student_id": 889,
+			"major": "math"
+		},
+		{
+			"first_name": "Leese",
+			"last_name": "Dinneen",
+			"student_id": 896,
+			"major": "math"
+		},
+		{
+			"first_name": "Tobie",
+			"last_name": "Pitson",
+			"student_id": 897,
+			"major": "math"
+		},
+		{
+			"first_name": "Conant",
+			"last_name": "Murcott",
+			"student_id": 900,
+			"major": "math"
+		},
+		{
+			"first_name": "Daisey",
+			"last_name": "Laxe",
+			"student_id": 909,
+			"major": "math"
+		},
+		{
+			"first_name": "Gerianna",
+			"last_name": "Wudeland",
+			"student_id": 923,
+			"major": "math"
+		},
+		{
+			"first_name": "Jeanine",
+			"last_name": "Beagrie",
+			"student_id": 924,
+			"major": "math"
+		},
+		{
+			"first_name": "Filippo",
+			"last_name": "Woolatt",
+			"student_id": 925,
+			"major": "math"
+		},
+		{
+			"first_name": "Dukey",
+			"last_name": "Hopfner",
+			"student_id": 939,
+			"major": "math"
+		},
+		{
+			"first_name": "Andrea",
+			"last_name": "Couling",
+			"student_id": 943,
+			"major": "math"
+		},
+		{
+			"first_name": "Dory",
+			"last_name": "Gavahan",
+			"student_id": 947,
+			"major": "math"
+		},
+		{
+			"first_name": "Jerad",
+			"last_name": "O'Sculley",
+			"student_id": 948,
+			"major": "math"
+		},
+		{
+			"first_name": "Clywd",
+			"last_name": "Le Clercq",
+			"student_id": 951,
+			"major": "math"
+		},
+		{
+			"first_name": "Myles",
+			"last_name": "Petzold",
+			"student_id": 955,
+			"major": "math"
+		},
+		{
+			"first_name": "Wheeler",
+			"last_name": "Glanester",
+			"student_id": 956,
+			"major": "math"
+		},
+		{
+			"first_name": "Libby",
+			"last_name": "Bragge",
+			"student_id": 959,
+			"major": "math"
+		},
+		{
+			"first_name": "Katinka",
+			"last_name": "Chevis",
+			"student_id": 962,
+			"major": "math"
+		},
+		{
+			"first_name": "Shamus",
+			"last_name": "Jaggar",
+			"student_id": 963,
+			"major": "math"
+		},
+		{
+			"first_name": "Roy",
+			"last_name": "Cussen",
+			"student_id": 978,
+			"major": "math"
+		},
+		{
+			"first_name": "Constantine",
+			"last_name": "Heskins",
+			"student_id": 979,
+			"major": "math"
+		},
+		{
+			"first_name": "Biddie",
+			"last_name": "Manderson",
+			"student_id": 993,
+			"major": "math"
+		},
+		{
+			"first_name": "Tasha",
+			"last_name": "Glanert",
+			"student_id": 1000,
+			"major": "math"
+		}
+	],
+	"agriculture": [
+		{
+			"first_name": "Aldwin",
+			"last_name": "Dragonette",
+			"student_id": 5,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Sim",
+			"last_name": "Perllman",
+			"student_id": 16,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Helga",
+			"last_name": "Grimsey",
+			"student_id": 19,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Almira",
+			"last_name": "Finkle",
+			"student_id": 28,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Baily",
+			"last_name": "Colthard",
+			"student_id": 31,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Solly",
+			"last_name": "Gratten",
+			"student_id": 44,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lolita",
+			"last_name": "Edgington",
+			"student_id": 53,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Rosmunda",
+			"last_name": "Searchwell",
+			"student_id": 59,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Gannie",
+			"last_name": "Mundwell",
+			"student_id": 61,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Patricio",
+			"last_name": "Widdicombe",
+			"student_id": 77,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Marcia",
+			"last_name": "Densie",
+			"student_id": 81,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Evonne",
+			"last_name": "Osburn",
+			"student_id": 84,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Mirabel",
+			"last_name": "Glowacha",
+			"student_id": 88,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Winnifred",
+			"last_name": "Lello",
+			"student_id": 95,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Harri",
+			"last_name": "Skeemor",
+			"student_id": 98,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Borg",
+			"last_name": "Cassy",
+			"student_id": 99,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Amelita",
+			"last_name": "Drivers",
+			"student_id": 100,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Dulcinea",
+			"last_name": "Amar",
+			"student_id": 102,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Cinda",
+			"last_name": "Gellert",
+			"student_id": 106,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Alfonse",
+			"last_name": "Wardlaw",
+			"student_id": 109,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Faunie",
+			"last_name": "Matfield",
+			"student_id": 111,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Pietro",
+			"last_name": "Floweth",
+			"student_id": 112,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Leo",
+			"last_name": "Richmont",
+			"student_id": 114,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Llywellyn",
+			"last_name": "Surpliss",
+			"student_id": 119,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Bord",
+			"last_name": "De Marchi",
+			"student_id": 127,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Maurene",
+			"last_name": "Siemens",
+			"student_id": 129,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lindsy",
+			"last_name": "Winterborne",
+			"student_id": 134,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Gerick",
+			"last_name": "Bailess",
+			"student_id": 148,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Myer",
+			"last_name": "Grestye",
+			"student_id": 153,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Felike",
+			"last_name": "Gillow",
+			"student_id": 157,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Malena",
+			"last_name": "Nystrom",
+			"student_id": 158,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Natala",
+			"last_name": "Ovid",
+			"student_id": 167,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Gay",
+			"last_name": "Crackett",
+			"student_id": 172,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Bourke",
+			"last_name": "Craydon",
+			"student_id": 190,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Sofie",
+			"last_name": "Garrie",
+			"student_id": 191,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Anthia",
+			"last_name": "Dwyr",
+			"student_id": 194,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Merv",
+			"last_name": "Leamy",
+			"student_id": 196,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Wini",
+			"last_name": "Boschmann",
+			"student_id": 198,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Mannie",
+			"last_name": "Huikerby",
+			"student_id": 213,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Marina",
+			"last_name": "McElroy",
+			"student_id": 214,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Shelagh",
+			"last_name": "Bedin",
+			"student_id": 216,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Meade",
+			"last_name": "Le Brun",
+			"student_id": 223,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Kirsten",
+			"last_name": "Ratlee",
+			"student_id": 227,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Katti",
+			"last_name": "Zink",
+			"student_id": 228,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Siouxie",
+			"last_name": "Tille",
+			"student_id": 229,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Andras",
+			"last_name": "Stubbington",
+			"student_id": 230,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Paulette",
+			"last_name": "Arnfield",
+			"student_id": 232,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Zola",
+			"last_name": "Sollner",
+			"student_id": 238,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Janina",
+			"last_name": "Van Giffen",
+			"student_id": 250,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Tarrah",
+			"last_name": "Deane",
+			"student_id": 254,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Kalvin",
+			"last_name": "Kyngdon",
+			"student_id": 262,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Thomas",
+			"last_name": "Vesty",
+			"student_id": 265,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Armin",
+			"last_name": "Hyrons",
+			"student_id": 268,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Catarina",
+			"last_name": "Ramalhete",
+			"student_id": 270,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Estrella",
+			"last_name": "Sinderson",
+			"student_id": 278,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Kordula",
+			"last_name": "Scatchar",
+			"student_id": 283,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Martina",
+			"last_name": "Wraight",
+			"student_id": 286,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lilllie",
+			"last_name": "Morad",
+			"student_id": 304,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lanette",
+			"last_name": "Joder",
+			"student_id": 309,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Monique",
+			"last_name": "Thomerson",
+			"student_id": 319,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Willy",
+			"last_name": "Hearfield",
+			"student_id": 328,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Broderick",
+			"last_name": "Kobu",
+			"student_id": 329,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Koo",
+			"last_name": "Allanson",
+			"student_id": 333,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Blakeley",
+			"last_name": "Harder",
+			"student_id": 336,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Jayme",
+			"last_name": "Redholes",
+			"student_id": 353,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Peria",
+			"last_name": "Quarterman",
+			"student_id": 355,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Dirk",
+			"last_name": "Ferby",
+			"student_id": 357,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Netta",
+			"last_name": "O'Calleran",
+			"student_id": 360,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Giovanna",
+			"last_name": "Pattullo",
+			"student_id": 363,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Rodger",
+			"last_name": "Squibb",
+			"student_id": 368,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Bing",
+			"last_name": "Simacek",
+			"student_id": 374,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Fidole",
+			"last_name": "Zannotti",
+			"student_id": 392,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Stanley",
+			"last_name": "Garett",
+			"student_id": 398,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Kristoffer",
+			"last_name": "Bastow",
+			"student_id": 400,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Jena",
+			"last_name": "Todarello",
+			"student_id": 403,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Roxane",
+			"last_name": "Fronzek",
+			"student_id": 411,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Coraline",
+			"last_name": "Nickoll",
+			"student_id": 414,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lucias",
+			"last_name": "Dannell",
+			"student_id": 416,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Iolanthe",
+			"last_name": "Ruppel",
+			"student_id": 417,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Zola",
+			"last_name": "Danielsson",
+			"student_id": 422,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Daisy",
+			"last_name": "Jeannot",
+			"student_id": 428,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Alessandra",
+			"last_name": "Hamor",
+			"student_id": 432,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Harrietta",
+			"last_name": "Albasini",
+			"student_id": 446,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Guglielma",
+			"last_name": "Ropkins",
+			"student_id": 448,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lenora",
+			"last_name": "MacPhaden",
+			"student_id": 467,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lynne",
+			"last_name": "Mateu",
+			"student_id": 472,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Emmet",
+			"last_name": "Docharty",
+			"student_id": 475,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Margery",
+			"last_name": "Ing",
+			"student_id": 476,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Si",
+			"last_name": "Volette",
+			"student_id": 481,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Othilia",
+			"last_name": "Dincke",
+			"student_id": 483,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Tabbie",
+			"last_name": "Woodus",
+			"student_id": 486,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Sarita",
+			"last_name": "Rozea",
+			"student_id": 495,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Hagen",
+			"last_name": "Cowwell",
+			"student_id": 497,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Dione",
+			"last_name": "Eversfield",
+			"student_id": 499,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Kingsley",
+			"last_name": "Haslewood",
+			"student_id": 508,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lynnell",
+			"last_name": "Boyn",
+			"student_id": 511,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Kikelia",
+			"last_name": "Linggard",
+			"student_id": 521,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Ilaire",
+			"last_name": "Quogan",
+			"student_id": 531,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Kristine",
+			"last_name": "Bollans",
+			"student_id": 533,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Sayer",
+			"last_name": "Menier",
+			"student_id": 534,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Roshelle",
+			"last_name": "Donativo",
+			"student_id": 537,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Henderson",
+			"last_name": "Leyshon",
+			"student_id": 541,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Claudine",
+			"last_name": "Czajkowska",
+			"student_id": 546,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Stephan",
+			"last_name": "Hussey",
+			"student_id": 547,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Stanly",
+			"last_name": "Lower",
+			"student_id": 556,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Vincenz",
+			"last_name": "Minall",
+			"student_id": 557,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Edmon",
+			"last_name": "Hudspith",
+			"student_id": 562,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Nadya",
+			"last_name": "Milesap",
+			"student_id": 564,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Briney",
+			"last_name": "Littleover",
+			"student_id": 565,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Perice",
+			"last_name": "Cabbell",
+			"student_id": 566,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Kristofer",
+			"last_name": "MacDermot",
+			"student_id": 567,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Stearne",
+			"last_name": "Ohm",
+			"student_id": 569,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Hillard",
+			"last_name": "Buxey",
+			"student_id": 577,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Raleigh",
+			"last_name": "Foucar",
+			"student_id": 581,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Reynold",
+			"last_name": "Doick",
+			"student_id": 586,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Noam",
+			"last_name": "Otteridge",
+			"student_id": 596,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Collin",
+			"last_name": "Fever",
+			"student_id": 604,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Darnall",
+			"last_name": "Hellmore",
+			"student_id": 617,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Kippy",
+			"last_name": "Snow",
+			"student_id": 622,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Theresa",
+			"last_name": "Havvock",
+			"student_id": 623,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Billie",
+			"last_name": "Stocks",
+			"student_id": 624,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Cecilius",
+			"last_name": "Ollie",
+			"student_id": 626,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Corny",
+			"last_name": "Leavold",
+			"student_id": 628,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Sancho",
+			"last_name": "Poff",
+			"student_id": 630,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Aili",
+			"last_name": "Coller",
+			"student_id": 642,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Hestia",
+			"last_name": "Rundle",
+			"student_id": 644,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Howey",
+			"last_name": "Giblin",
+			"student_id": 662,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Bordy",
+			"last_name": "Mote",
+			"student_id": 663,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Ivan",
+			"last_name": "Allwell",
+			"student_id": 672,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Camel",
+			"last_name": "Knell",
+			"student_id": 674,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Taryn",
+			"last_name": "Quarry",
+			"student_id": 681,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Bev",
+			"last_name": "Conklin",
+			"student_id": 684,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Neville",
+			"last_name": "Shalloo",
+			"student_id": 685,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Wanda",
+			"last_name": "Rabl",
+			"student_id": 692,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Ruthann",
+			"last_name": "Sofe",
+			"student_id": 693,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lee",
+			"last_name": "Shippam",
+			"student_id": 700,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Stacey",
+			"last_name": "Ledner",
+			"student_id": 705,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Madison",
+			"last_name": "Bollard",
+			"student_id": 710,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lura",
+			"last_name": "Gehrts",
+			"student_id": 718,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Ossie",
+			"last_name": "Breinlein",
+			"student_id": 721,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Branden",
+			"last_name": "Ditzel",
+			"student_id": 723,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Osgood",
+			"last_name": "Crommett",
+			"student_id": 725,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Ingrim",
+			"last_name": "Cream",
+			"student_id": 733,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Elliot",
+			"last_name": "Beagan",
+			"student_id": 734,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Alidia",
+			"last_name": "Parradine",
+			"student_id": 735,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lindy",
+			"last_name": "Bernath",
+			"student_id": 736,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Malinde",
+			"last_name": "Coram",
+			"student_id": 741,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Jeralee",
+			"last_name": "Gauson",
+			"student_id": 744,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Emyle",
+			"last_name": "Kelway",
+			"student_id": 748,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Addy",
+			"last_name": "Ryton",
+			"student_id": 755,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Mano",
+			"last_name": "Baudino",
+			"student_id": 764,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Garrett",
+			"last_name": "Quene",
+			"student_id": 770,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Eveline",
+			"last_name": "Binney",
+			"student_id": 780,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Rooney",
+			"last_name": "Gascoyen",
+			"student_id": 787,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Urbano",
+			"last_name": "Varvell",
+			"student_id": 799,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Wallie",
+			"last_name": "Wandrich",
+			"student_id": 809,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Hoebart",
+			"last_name": "Estoile",
+			"student_id": 815,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Pansie",
+			"last_name": "Pluck",
+			"student_id": 817,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Gareth",
+			"last_name": "Froom",
+			"student_id": 822,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Christy",
+			"last_name": "M'Chirrie",
+			"student_id": 826,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Emiline",
+			"last_name": "Mapis",
+			"student_id": 830,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Martguerita",
+			"last_name": "Spincke",
+			"student_id": 835,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Aimil",
+			"last_name": "Fallowfield",
+			"student_id": 838,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Lianna",
+			"last_name": "Peddar",
+			"student_id": 840,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Walker",
+			"last_name": "Patrono",
+			"student_id": 844,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Terri",
+			"last_name": "Jolliman",
+			"student_id": 845,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Hughie",
+			"last_name": "Chancelier",
+			"student_id": 854,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Andriette",
+			"last_name": "Constanza",
+			"student_id": 855,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Davita",
+			"last_name": "Kupisz",
+			"student_id": 866,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Sybilla",
+			"last_name": "Heritege",
+			"student_id": 867,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Roxanna",
+			"last_name": "Diggens",
+			"student_id": 869,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Kelley",
+			"last_name": "Mowsdale",
+			"student_id": 873,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Caressa",
+			"last_name": "Vella",
+			"student_id": 881,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Phillipe",
+			"last_name": "MacKowle",
+			"student_id": 890,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Sianna",
+			"last_name": "Filippucci",
+			"student_id": 898,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Galen",
+			"last_name": "de Clerq",
+			"student_id": 901,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Coralyn",
+			"last_name": "Baugh",
+			"student_id": 907,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Floria",
+			"last_name": "Moggan",
+			"student_id": 910,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Humfried",
+			"last_name": "Radage",
+			"student_id": 913,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Aldus",
+			"last_name": "Kasting",
+			"student_id": 916,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Allayne",
+			"last_name": "Gosland",
+			"student_id": 917,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Pancho",
+			"last_name": "Golton",
+			"student_id": 930,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Nalani",
+			"last_name": "Preto",
+			"student_id": 932,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Cookie",
+			"last_name": "Dowsey",
+			"student_id": 935,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Silvanus",
+			"last_name": "Gurney",
+			"student_id": 942,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Malvina",
+			"last_name": "Gridon",
+			"student_id": 950,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Nanci",
+			"last_name": "Dabes",
+			"student_id": 953,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Darryl",
+			"last_name": "Royds",
+			"student_id": 961,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Pauline",
+			"last_name": "Klees",
+			"student_id": 970,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Dell",
+			"last_name": "Peller",
+			"student_id": 973,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Yuri",
+			"last_name": "Dickinson",
+			"student_id": 977,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Delinda",
+			"last_name": "Spooner",
+			"student_id": 992,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Alisa",
+			"last_name": "Heisman",
+			"student_id": 994,
+			"major": "agriculture"
+		},
+		{
+			"first_name": "Welbie",
+			"last_name": "Haslehurst",
+			"student_id": 996,
+			"major": "agriculture"
+		}
+	],
+	"computer_science": [
+		{
+			"first_name": "Colline",
+			"last_name": "Pioch",
+			"student_id": 22,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Marcelo",
+			"last_name": "Neumann",
+			"student_id": 23,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Rosemarie",
+			"last_name": "Desorts",
+			"student_id": 24,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Emmott",
+			"last_name": "Prettyjohn",
+			"student_id": 27,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Lydia",
+			"last_name": "Taffrey",
+			"student_id": 37,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Johanna",
+			"last_name": "Joberne",
+			"student_id": 50,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Mikkel",
+			"last_name": "Whilde",
+			"student_id": 55,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Olivier",
+			"last_name": "Ambroisin",
+			"student_id": 56,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Kathlin",
+			"last_name": "Somerbell",
+			"student_id": 65,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Odetta",
+			"last_name": "Linstead",
+			"student_id": 71,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Carlene",
+			"last_name": "Kitteringham",
+			"student_id": 72,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Madonna",
+			"last_name": "Newart",
+			"student_id": 74,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Tobey",
+			"last_name": "Haburne",
+			"student_id": 83,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Bealle",
+			"last_name": "Toffetto",
+			"student_id": 94,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Consuela",
+			"last_name": "Tett",
+			"student_id": 96,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Mimi",
+			"last_name": "Hub",
+			"student_id": 101,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Melli",
+			"last_name": "Giorio",
+			"student_id": 103,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Sayre",
+			"last_name": "Overell",
+			"student_id": 105,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Donica",
+			"last_name": "Kaufman",
+			"student_id": 108,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Cheryl",
+			"last_name": "Auden",
+			"student_id": 110,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Isaac",
+			"last_name": "McMackin",
+			"student_id": 113,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Solly",
+			"last_name": "Aldersea",
+			"student_id": 120,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Elsbeth",
+			"last_name": "Stanbro",
+			"student_id": 123,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Klemens",
+			"last_name": "Powelee",
+			"student_id": 128,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Gasper",
+			"last_name": "Constantinou",
+			"student_id": 133,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Baxie",
+			"last_name": "Wolfart",
+			"student_id": 136,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Asia",
+			"last_name": "Wetherill",
+			"student_id": 144,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Yardley",
+			"last_name": "Lang",
+			"student_id": 147,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Kariotta",
+			"last_name": "Stockey",
+			"student_id": 149,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Kyrstin",
+			"last_name": "Cattonnet",
+			"student_id": 154,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Eudora",
+			"last_name": "Rathjen",
+			"student_id": 156,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Rod",
+			"last_name": "Urlich",
+			"student_id": 169,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Belita",
+			"last_name": "Wensley",
+			"student_id": 173,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Marnia",
+			"last_name": "Kearton",
+			"student_id": 178,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Orville",
+			"last_name": "Widdows",
+			"student_id": 185,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Merline",
+			"last_name": "Toulson",
+			"student_id": 186,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Aurelea",
+			"last_name": "Abyss",
+			"student_id": 192,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Enoch",
+			"last_name": "Kingsly",
+			"student_id": 193,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Randie",
+			"last_name": "Maddern",
+			"student_id": 197,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Lari",
+			"last_name": "Eble",
+			"student_id": 199,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Annadiane",
+			"last_name": "Sheach",
+			"student_id": 209,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Rhiamon",
+			"last_name": "Muggleston",
+			"student_id": 220,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Timothea",
+			"last_name": "Dahlberg",
+			"student_id": 221,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Nickey",
+			"last_name": "Macklin",
+			"student_id": 237,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Daron",
+			"last_name": "Maffetti",
+			"student_id": 240,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Joe",
+			"last_name": "Puddan",
+			"student_id": 242,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Shea",
+			"last_name": "Scotchmor",
+			"student_id": 244,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Grier",
+			"last_name": "Quinn",
+			"student_id": 248,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Eduard",
+			"last_name": "Fallawe",
+			"student_id": 253,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Kimble",
+			"last_name": "Chelnam",
+			"student_id": 257,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Alexander",
+			"last_name": "Vreede",
+			"student_id": 266,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Zelma",
+			"last_name": "Longcaster",
+			"student_id": 272,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Murial",
+			"last_name": "Gillman",
+			"student_id": 274,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Layton",
+			"last_name": "McAw",
+			"student_id": 282,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Verina",
+			"last_name": "Laverack",
+			"student_id": 288,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Myrilla",
+			"last_name": "Oury",
+			"student_id": 297,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Ezri",
+			"last_name": "MacAless",
+			"student_id": 299,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Lissi",
+			"last_name": "Ammer",
+			"student_id": 302,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Aimil",
+			"last_name": "Bulman",
+			"student_id": 305,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Moishe",
+			"last_name": "Shillaber",
+			"student_id": 308,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Harlen",
+			"last_name": "Hundall",
+			"student_id": 311,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Lucy",
+			"last_name": "Chatburn",
+			"student_id": 313,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Sibbie",
+			"last_name": "Kassman",
+			"student_id": 315,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Leoline",
+			"last_name": "Machan",
+			"student_id": 321,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Delilah",
+			"last_name": "Charter",
+			"student_id": 326,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Layton",
+			"last_name": "Saxton",
+			"student_id": 330,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Aloise",
+			"last_name": "Lestrange",
+			"student_id": 366,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Loren",
+			"last_name": "Pendleton",
+			"student_id": 371,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Germain",
+			"last_name": "Gemlbett",
+			"student_id": 373,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Hobart",
+			"last_name": "Tapsfield",
+			"student_id": 376,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Lian",
+			"last_name": "Ricco",
+			"student_id": 377,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Peyter",
+			"last_name": "Searjeant",
+			"student_id": 378,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Annamaria",
+			"last_name": "McLaverty",
+			"student_id": 380,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Lorilee",
+			"last_name": "Heisman",
+			"student_id": 381,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Alyssa",
+			"last_name": "Dunkinson",
+			"student_id": 383,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Carlos",
+			"last_name": "Fidele",
+			"student_id": 384,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Kristofor",
+			"last_name": "Dust",
+			"student_id": 388,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Maude",
+			"last_name": "Jossum",
+			"student_id": 394,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Winthrop",
+			"last_name": "Bramelt",
+			"student_id": 396,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Brandyn",
+			"last_name": "Nicholas",
+			"student_id": 401,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Reube",
+			"last_name": "Viles",
+			"student_id": 402,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Cad",
+			"last_name": "Mancktelow",
+			"student_id": 407,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Elianora",
+			"last_name": "Walsh",
+			"student_id": 418,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Valencia",
+			"last_name": "Malter",
+			"student_id": 423,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Bamby",
+			"last_name": "Westberg",
+			"student_id": 444,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Obediah",
+			"last_name": "Park",
+			"student_id": 449,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Bevon",
+			"last_name": "Twinn",
+			"student_id": 450,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Gina",
+			"last_name": "Collumbine",
+			"student_id": 451,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Margaret",
+			"last_name": "Elderkin",
+			"student_id": 456,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Dorian",
+			"last_name": "Mostyn",
+			"student_id": 462,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Madeleine",
+			"last_name": "Misson",
+			"student_id": 464,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Daloris",
+			"last_name": "Isson",
+			"student_id": 482,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Rae",
+			"last_name": "Painter",
+			"student_id": 490,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Davine",
+			"last_name": "Bance",
+			"student_id": 491,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Carroll",
+			"last_name": "Clayal",
+			"student_id": 494,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Evie",
+			"last_name": "Canwell",
+			"student_id": 496,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Sargent",
+			"last_name": "Kimpton",
+			"student_id": 501,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Jorie",
+			"last_name": "Bartosiak",
+			"student_id": 515,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Gallard",
+			"last_name": "Richardon",
+			"student_id": 520,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Kaitlynn",
+			"last_name": "Fenelon",
+			"student_id": 524,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Worden",
+			"last_name": "Boness",
+			"student_id": 529,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Mitchel",
+			"last_name": "Tesseyman",
+			"student_id": 535,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Colly",
+			"last_name": "Simnel",
+			"student_id": 538,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Maury",
+			"last_name": "Shorthouse",
+			"student_id": 542,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Benedetto",
+			"last_name": "Davitashvili",
+			"student_id": 549,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Sarene",
+			"last_name": "Rosen",
+			"student_id": 552,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Rouvin",
+			"last_name": "Lemmer",
+			"student_id": 554,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Adrien",
+			"last_name": "Bilsford",
+			"student_id": 574,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Rickie",
+			"last_name": "Noddles",
+			"student_id": 575,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Shayla",
+			"last_name": "Letteresse",
+			"student_id": 583,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Barret",
+			"last_name": "Hovert",
+			"student_id": 585,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Baxie",
+			"last_name": "Pickerin",
+			"student_id": 590,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Erastus",
+			"last_name": "Aikett",
+			"student_id": 594,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Brok",
+			"last_name": "Rozsa",
+			"student_id": 598,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Antony",
+			"last_name": "Noblett",
+			"student_id": 601,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Zacharias",
+			"last_name": "Tuckie",
+			"student_id": 605,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Chet",
+			"last_name": "McNabb",
+			"student_id": 608,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Juieta",
+			"last_name": "Branscomb",
+			"student_id": 609,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Aubert",
+			"last_name": "Aloigi",
+			"student_id": 636,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Esta",
+			"last_name": "Stitch",
+			"student_id": 637,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Torrance",
+			"last_name": "O'Connolly",
+			"student_id": 638,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Zacharie",
+			"last_name": "Cosgrove",
+			"student_id": 643,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Vinita",
+			"last_name": "Mattosoff",
+			"student_id": 646,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Marcia",
+			"last_name": "Pace",
+			"student_id": 650,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Elnora",
+			"last_name": "Kupker",
+			"student_id": 653,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Traver",
+			"last_name": "Yakovliv",
+			"student_id": 654,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Ketty",
+			"last_name": "Burland",
+			"student_id": 658,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Roxie",
+			"last_name": "Daniaud",
+			"student_id": 661,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Lynne",
+			"last_name": "Gavaran",
+			"student_id": 668,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Caz",
+			"last_name": "Ingleson",
+			"student_id": 682,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Calli",
+			"last_name": "Coulthart",
+			"student_id": 686,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Syman",
+			"last_name": "Wethered",
+			"student_id": 696,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Charmion",
+			"last_name": "Haysom",
+			"student_id": 702,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Mag",
+			"last_name": "Maggorini",
+			"student_id": 708,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Bernard",
+			"last_name": "Allmond",
+			"student_id": 709,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Lenard",
+			"last_name": "Ingolotti",
+			"student_id": 711,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Vito",
+			"last_name": "Dewar",
+			"student_id": 712,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Helge",
+			"last_name": "Peck",
+			"student_id": 715,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Bren",
+			"last_name": "Pasby",
+			"student_id": 717,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Kathe",
+			"last_name": "Quantrill",
+			"student_id": 720,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Risa",
+			"last_name": "Desseine",
+			"student_id": 722,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Coreen",
+			"last_name": "Bridden",
+			"student_id": 730,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Malva",
+			"last_name": "Ditty",
+			"student_id": 732,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Karissa",
+			"last_name": "Isakovitch",
+			"student_id": 742,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Gregor",
+			"last_name": "Byrch",
+			"student_id": 743,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Greggory",
+			"last_name": "Aizikovich",
+			"student_id": 745,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Leigh",
+			"last_name": "Wragge",
+			"student_id": 758,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Hilda",
+			"last_name": "Linder",
+			"student_id": 761,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Corene",
+			"last_name": "McAughtrie",
+			"student_id": 762,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Ediva",
+			"last_name": "D'Orsay",
+			"student_id": 763,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Mort",
+			"last_name": "Dener",
+			"student_id": 772,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Irvine",
+			"last_name": "Barus",
+			"student_id": 779,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Etan",
+			"last_name": "Kinnerk",
+			"student_id": 781,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Collette",
+			"last_name": "Hearnden",
+			"student_id": 782,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Artair",
+			"last_name": "Tilt",
+			"student_id": 788,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Matthiew",
+			"last_name": "Sheen",
+			"student_id": 796,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Gawen",
+			"last_name": "Frowde",
+			"student_id": 802,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Dimitry",
+			"last_name": "Kinge",
+			"student_id": 808,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Phebe",
+			"last_name": "Lago",
+			"student_id": 818,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Jephthah",
+			"last_name": "Reen",
+			"student_id": 819,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Alie",
+			"last_name": "Wankel",
+			"student_id": 823,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Blanca",
+			"last_name": "Ebbing",
+			"student_id": 827,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Alphonso",
+			"last_name": "MacQuist",
+			"student_id": 829,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Bennie",
+			"last_name": "Snell",
+			"student_id": 839,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Seymour",
+			"last_name": "Iston",
+			"student_id": 841,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Sherilyn",
+			"last_name": "Izzett",
+			"student_id": 849,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Tamarra",
+			"last_name": "Bransom",
+			"student_id": 871,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Elvira",
+			"last_name": "Wyrill",
+			"student_id": 875,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Hyman",
+			"last_name": "Vigrass",
+			"student_id": 877,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Rikki",
+			"last_name": "Mincher",
+			"student_id": 880,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Walliw",
+			"last_name": "Keasy",
+			"student_id": 886,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Kaye",
+			"last_name": "McKew",
+			"student_id": 892,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Sephira",
+			"last_name": "Mapletoft",
+			"student_id": 893,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Con",
+			"last_name": "Franzoli",
+			"student_id": 894,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Sayre",
+			"last_name": "Greenroa",
+			"student_id": 899,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Cory",
+			"last_name": "Casaccia",
+			"student_id": 906,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Berri",
+			"last_name": "Pratte",
+			"student_id": 908,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Rutherford",
+			"last_name": "Iacovolo",
+			"student_id": 911,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Gill",
+			"last_name": "Bloss",
+			"student_id": 912,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Sherry",
+			"last_name": "Hundey",
+			"student_id": 914,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Wolfgang",
+			"last_name": "Frapwell",
+			"student_id": 919,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Nathanial",
+			"last_name": "MacDermid",
+			"student_id": 920,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Penny",
+			"last_name": "Lomasna",
+			"student_id": 927,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Alec",
+			"last_name": "Szepe",
+			"student_id": 931,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Merry",
+			"last_name": "Rimer",
+			"student_id": 941,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Rees",
+			"last_name": "Sketcher",
+			"student_id": 944,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Kaila",
+			"last_name": "Lanmeid",
+			"student_id": 949,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Babbette",
+			"last_name": "Scotchforth",
+			"student_id": 952,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Olva",
+			"last_name": "Korf",
+			"student_id": 966,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Modesta",
+			"last_name": "Causley",
+			"student_id": 967,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Kaylil",
+			"last_name": "Bleasdille",
+			"student_id": 969,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Marilin",
+			"last_name": "Clemanceau",
+			"student_id": 971,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Adelle",
+			"last_name": "Tatum",
+			"student_id": 976,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Cindelyn",
+			"last_name": "Klaffs",
+			"student_id": 981,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Johnny",
+			"last_name": "Napleton",
+			"student_id": 983,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Dieter",
+			"last_name": "Rival",
+			"student_id": 984,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Delmor",
+			"last_name": "Deacock",
+			"student_id": 988,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Leanna",
+			"last_name": "Weich",
+			"student_id": 989,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Dela",
+			"last_name": "Gavrieli",
+			"student_id": 991,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Inessa",
+			"last_name": "Pesticcio",
+			"student_id": 997,
+			"major": "computer_science"
+		},
+		{
+			"first_name": "Ashly",
+			"last_name": "Reihill",
+			"student_id": 998,
+			"major": "computer_science"
+		}
+	]
+}
